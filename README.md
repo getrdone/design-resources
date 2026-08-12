@@ -16,9 +16,11 @@ Do **not** publish this tree publicly.
 ### Dynamic symmetry — quick agent rule
 
 1. Soft standard for layout, spacing, hierarchy, thumbs, heroes.  
-2. Full method: `agent-skills/skills/curiosity-driven-scripture-journey/references/dynamic-symmetry.md`  
-3. Prefer `US grid sizes/` or `A4 grid sizes/` → `BLACK PNG HORIZONTAL` or `VERTICAL`.  
-4. **Never** put nude/sexually explicit study images from the PDFs into any deliverable. Humans: prefer only *The Simplicity and Beauty of Dynamic Symmetry* PDF.
+2. **Skim first (definitions):** `dynamic-symmetry-grids/GLOSSARY.md`  
+3. Full method: `agent-skills/skills/curiosity-driven-scripture-journey/references/dynamic-symmetry.md`  
+   (skill also has `dynamic-symmetry-glossary.md` — same skim content)  
+4. Prefer `US grid sizes/` or `A4 grid sizes/` → `BLACK PNG HORIZONTAL` or `VERTICAL`.  
+5. **Never** put nude/sexually explicit study images from the PDFs into any deliverable. Humans: prefer only *The Simplicity and Beauty of Dynamic Symmetry* PDF.
 
 ### Sync from original H: pack
 
