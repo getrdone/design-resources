@@ -1,0 +1,11 @@
+# Materials — zen-mist
+Mood: spa calm; moss, mist, stone.
+Surfaces:
+- deep moss/olive velvet
+- sage linen
+- pale silvery sage silk
+- smooth gray river stone
+- charcoal stone basin with soft steam/mist
+Light: diffused overcast; gentle.
+Avoid: neon, gold bling, high chroma reds.
+Recreate prompt seed: moss velvet, sage linen, silk, river stone, misty basin; zen-mist; no people/text.

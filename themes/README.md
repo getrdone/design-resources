@@ -14,11 +14,13 @@ themes/
     palette.css            # CSS variables --theme-*
     palette.png            # horizontal swatch strip
     palettes/              # optional per-image palette JSON
+    materials/             # materials mood board + MATERIALS.txt recreate brief
   antichrist/
     BRIEF.md
     references/
     palettes/
     generated/             # generated mood / board / geometry assets
+    materials/             # materials mood board + MATERIALS.txt recreate brief
     palette.json|css|png
 ```
 
@@ -31,6 +33,15 @@ themes/
 
 Typical roles in `palette.json`: `background`, `primary`, `accent`, `highlight`, `muted`, `ink`.
 The `antichrist` theme uses named roles: `purple`, `scarlet`, `pearl`, `gold`, `ink`.
+
+## Materials
+
+Each theme includes a `materials/` folder:
+
+- `{theme}--materials-mood--01.png` — photoreal flat-lay mood board of surfaces/textures for the palette
+- `MATERIALS.txt` — concise agent recreate brief (mood, surfaces, light, avoid list, prompt seed)
+
+Use these when regenerating texture style or matching material language across assets.
 
 ## Privacy
 

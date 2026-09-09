@@ -1,0 +1,10 @@
+# Materials — blue-marble
+Mood: cool stone luxury; clean, misty, precise.
+Surfaces:
+- polished navy marble with white veins
+- brushed stainless steel plate
+- translucent teal glass cylinder
+- pale frosted gray marble/quartz
+- honed slate/concrete ground; soft fog wisps
+Light: cool directional studio; soft shadows.
+Recreate prompt seed: blue marble, brushed steel, teal glass, pale stone, fog; blue-marble; no people/text.

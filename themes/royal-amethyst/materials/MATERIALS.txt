@@ -1,0 +1,11 @@
+# Materials — royal-amethyst
+Mood: regal purple + gold crystal court.
+Surfaces:
+- crushed royal purple velvet
+- amethyst crystal cluster/geode
+- lilac satin with soft sheen
+- crumpled gold leaf
+- matte charcoal slate slabs
+Light: dramatic; velvet absorbs, gold sparkles.
+Avoid: cyan/teal dominance.
+Recreate prompt seed: purple velvet, amethyst, lilac satin, gold leaf, slate; royal-amethyst; no people/text.

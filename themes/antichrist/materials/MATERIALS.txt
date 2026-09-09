@@ -1,0 +1,12 @@
+# Materials — antichrist
+Mood: imperial ritual luxury; purple/scarlet/pearl/gold/ink. NO blues/teals/cyan.
+Surfaces:
+- deep imperial purple crushed velvet
+- blood-scarlet silk folds
+- luminous pearl satin
+- hammered/flaked gold leaf
+- near-black ink ground (#140A12 purple-charcoal)
+Light: chiaroscuro; gold catches edges; ink grounds.
+Hard rule: reject any blue/teal/cyan in regenerations.
+Recreate prompt seed: purple velvet, scarlet silk, pearl satin, gold leaf on near-black; antichrist palette; no blue; no people/text.
+Canonical ref image: materials/antichrist--materials-mood--01.png

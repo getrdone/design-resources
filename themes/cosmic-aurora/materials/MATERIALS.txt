@@ -1,0 +1,9 @@
+# Materials — cosmic-aurora
+Mood: void + aurora oil-slick night.
+Surfaces:
+- black velvet void
+- iridescent liquid-metal foil (magenta/violet/cyan swirls)
+- gold stardust glitter field
+- translucent nebula resin/glass orb
+Light: soft edge glow; sparkle on black.
+Recreate prompt seed: black velvet, iridescent foil, gold stardust, nebula glass; cosmic-aurora; no people/text.

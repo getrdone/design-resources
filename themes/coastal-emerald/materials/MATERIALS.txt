@@ -1,0 +1,10 @@
+# Materials — coastal-emerald
+Mood: cliff meets sea; wet emerald luxury.
+Surfaces:
+- deep emerald velvet
+- bubbled sea-glass green translucent glass
+- dark petrol teal satin
+- pale seafoam linen
+- wet black basalt rock
+Light: cool coastal; wet speculars on stone.
+Recreate prompt seed: emerald velvet, sea glass, teal satin, seafoam linen, wet basalt; coastal-emerald; no people/text.

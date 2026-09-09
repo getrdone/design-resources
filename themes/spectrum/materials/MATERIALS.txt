@@ -1,0 +1,10 @@
+# Materials — spectrum
+Mood: lab optics; light as material.
+Surfaces:
+- clear glass triangular prism casting ROYGBIV
+- crumpled diffraction/iridescent foil
+- frosted thin-film gradient plates
+- brushed silver scientific metal cylinders/blocks
+- glossy black lab bench with reflections
+Light: focused white beam into prism; soft fill elsewhere.
+Recreate prompt seed: prism rainbow, iridescent foil, frosted plates, brushed metal on black lab surface; spectrum; no people/text.

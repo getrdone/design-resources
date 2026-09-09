@@ -1,0 +1,9 @@
+# Materials — bright-jewel
+Mood: high-chroma jewel box on black lacquer.
+Surfaces:
+- faceted ruby, emerald, sapphire, citrine crystal
+- crumpled gold foil leaf
+- polished black lacquer / obsidian tray (mirror reflections)
+Light: hard speculars on facets; micro glitter.
+Avoid: muddy earth tones as primaries.
+Recreate prompt seed: photoreal gemstones (ruby emerald sapphire citrine) on black lacquer with gold foil; bright-jewel; no people/text.
