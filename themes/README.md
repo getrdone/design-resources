@@ -1,4 +1,4 @@
-# themes/
+﻿# themes/
 
 Organized color-scheme theme libraries for design work.
 
@@ -10,7 +10,7 @@ themes/
   README.md                # this file
   <theme-kebab>/
     *.jpg|*.png            # reference / source imagery
-    palette.json           # 5–6 colors with role guesses
+    palette.json           # 5â€“6 colors with role guesses
     palette.css            # CSS variables --theme-*
     palette.png            # horizontal swatch strip
     palettes/              # optional per-image palette JSON
@@ -38,11 +38,15 @@ The `antichrist` theme uses named roles: `purple`, `scarlet`, `pearl`, `gold`, `
 
 Each theme includes a `materials/` folder:
 
-- `{theme}--materials-mood--01.png` — photoreal flat-lay mood board of surfaces/textures for the palette
-- `MATERIALS.txt` — concise agent recreate brief (mood, surfaces, light, avoid list, prompt seed)
+- `{theme}--materials-mood--01.png` â€” photoreal flat-lay mood board of surfaces/textures for the palette
+- `MATERIALS.txt` â€” concise agent recreate brief (mood, surfaces, light, avoid list, prompt seed)
 
 Use these when regenerating texture style or matching material language across assets.
 
 ## Privacy
 
 This pack lives in the private `design-resources` repo. Do not publish assets publicly without clearance.
+
+## Gallery
+Browse all materials mood boards in one place: repo-root `materials/` (flat PNGs + per-theme subfolders).
+

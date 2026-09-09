@@ -1,0 +1,12 @@
+# Materials — gilded-dune
+Mood: desert gilt; sand meeting metal.
+Surfaces:
+- fine rippled dune sand (matte granular)
+- hammered gold foil (dimpled metal highlights)
+- sun-bleached coarse linen/gauze
+- rough sandstone / sandy stone slab
+- soft tan suede
+- optional thin cool satin-silver sliver only as distant horizon note (keep gold dominant)
+Light: warm sun rake across sand + metal.
+Avoid: heavy neon; large blue fields.
+Recreate prompt seed: dune sand, hammered gold, linen, sandstone, suede; gilded-dune; no people/text.

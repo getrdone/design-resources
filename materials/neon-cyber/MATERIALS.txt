@@ -1,0 +1,10 @@
+# Materials — neon-cyber
+Mood: rainy cyberpunk industrial neon.
+Surfaces:
+- carbon fiber weave
+- brushed gunmetal / aluminum
+- translucent magenta + cyan acrylic blocks (edge glow)
+- electric lime light slash
+- wet dark slabs with water droplets
+Light: neon self-illumination + color bleed on metal.
+Recreate prompt seed: carbon fiber, gunmetal, magenta/cyan acrylic, lime beam, wet droplets; neon-cyber; no people/text.

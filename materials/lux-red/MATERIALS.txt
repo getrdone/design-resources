@@ -1,0 +1,10 @@
+# Materials — lux-red
+Mood: night opulence; blood/wine luxury; no blue.
+Surfaces:
+- deep burgundy velvet (light-absorbing folds)
+- scarlet liquid satin (long fiery highlights)
+- jet black patent / high-gloss vinyl (sharp white speculars)
+- torn gold leaf on dark slate
+Light: low-key chiaroscuro from one side.
+Avoid: blue, teal, cyan, pastel pink.
+Recreate prompt seed: burgundy velvet, scarlet silk, black patent, gold leaf; lux-red; no people/text.

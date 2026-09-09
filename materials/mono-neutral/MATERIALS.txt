@@ -1,0 +1,10 @@
+# Materials — mono-neutral
+Mood: graphite minimal; texture over chroma.
+Surfaces:
+- charcoal porous concrete / basalt slabs
+- heathered gray wool felt
+- ivory card stack + matte black sheet
+- brushed graphite metal with fine scratches
+Light: flat even; emphasize grain/fuzz/matte.
+Avoid: saturated color, colored neon.
+Recreate prompt seed: concrete, wool, ivory paper, black card, brushed metal; mono-neutral grayscale; no people/text.
