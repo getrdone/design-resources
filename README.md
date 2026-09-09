@@ -43,4 +43,26 @@ cd /mnt/f/__ai-projects/design-resources && git add -A && git commit && git push
 ## Privacy
 
 - Repo must stay **private**.  
-- Do not attach these grids to public sites or public repos.  
+- Do not attach these grids to public sites or public repos.
+
+## Color themes
+
+Working library mirrored under `themes/` (source: `C:\Users\vapor\Pictures\color-scheme-images`).
+
+| Theme | Image count |
+|-------|-------------|
+| `autumn-earth` | 21 |
+| `bright-jewel` | 31 |
+| `lux-red` | 18 |
+| `gilded-dune` | 15 |
+| `blue-marble` | 21 |
+| `mono-neutral` | 14 |
+| `zen-mist` | 9 |
+| `royal-amethyst` | 9 |
+| `coastal-emerald` | 6 |
+| `cosmic-aurora` | 6 |
+| `neon-cyber` | 15 |
+| `spectrum` | 9 |
+| `antichrist` | 53 |
+
+See `themes/INDEX.md` for hex palettes. Counts: autumn-earth=21, bright-jewel=31, lux-red=18, gilded-dune=15, blue-marble=21, mono-neutral=14, zen-mist=9, royal-amethyst=9, coastal-emerald=6, cosmic-aurora=6, neon-cyber=15, spectrum=9, antichrist=53.
