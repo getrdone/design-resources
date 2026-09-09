@@ -1,0 +1,48 @@
+{
+  "theme": "spectrum",
+  "description": "Scientific / visual spectra reference \u2014 UV, visible ROYGBIV, IR false-color, full EM schematic.",
+  "stops": {
+    "ultraviolet": [
+      "#2e1065",
+      "#5b21b6",
+      "#7c3aed",
+      "#c084fc"
+    ],
+    "visible": [
+      "#ff0000",
+      "#ff7f00",
+      "#ffff00",
+      "#00ff00",
+      "#0000ff",
+      "#4b0082",
+      "#9400d3"
+    ],
+    "infrared": [
+      "#140000",
+      "#8b0000",
+      "#ff4500",
+      "#ffd27f",
+      "#fff5e6"
+    ],
+    "full_em_labels": [
+      "UV",
+      "VISIBLE",
+      "IR"
+    ]
+  },
+  "css_vars": {
+    "--spec-uv-1": "#2e1065",
+    "--spec-uv-2": "#7c3aed",
+    "--spec-uv-3": "#c084fc",
+    "--spec-vis-r": "#ff0000",
+    "--spec-vis-o": "#ff7f00",
+    "--spec-vis-y": "#ffff00",
+    "--spec-vis-g": "#00ff00",
+    "--spec-vis-b": "#0000ff",
+    "--spec-vis-i": "#4b0082",
+    "--spec-vis-v": "#9400d3",
+    "--spec-ir-1": "#8b0000",
+    "--spec-ir-2": "#ff4500",
+    "--spec-ir-3": "#ffd27f"
+  }
+}
