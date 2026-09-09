@@ -1,0 +1,56 @@
+{
+  "image": "coastal-emerald--tropical-azure--01.jpg",
+  "theme": "coastal-emerald",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#39726a",
+      "rgb": [
+        57,
+        114,
+        106
+      ],
+      "share": 0.1849
+    },
+    {
+      "role": "primary",
+      "hex": "#55c9bd",
+      "rgb": [
+        85,
+        201,
+        189
+      ],
+      "share": 0.3069
+    },
+    {
+      "role": "accent",
+      "hex": "#d1c3a3",
+      "rgb": [
+        209,
+        195,
+        163
+      ],
+      "share": 0.1769
+    },
+    {
+      "role": "highlight",
+      "hex": "#d7dbca",
+      "rgb": [
+        215,
+        219,
+        202
+      ],
+      "share": 0.1169
+    },
+    {
+      "role": "ink",
+      "hex": "#73a998",
+      "rgb": [
+        115,
+        169,
+        152
+      ],
+      "share": 0.2144
+    }
+  ]
+}

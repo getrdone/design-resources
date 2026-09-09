@@ -1,0 +1,110 @@
+{
+  "theme": "antichrist",
+  "brief": "purple / scarlet / pearl / gold \u2014 NO blues/teals/cyan",
+  "colors": [
+    {
+      "role": "purple",
+      "name": "imperial-amethyst",
+      "hex": "#4A0E4E",
+      "rgb": [
+        74,
+        14,
+        78
+      ]
+    },
+    {
+      "role": "scarlet",
+      "name": "blood-flame",
+      "hex": "#9B1B1E",
+      "rgb": [
+        155,
+        27,
+        30
+      ]
+    },
+    {
+      "role": "pearl",
+      "name": "luminous-pearl",
+      "hex": "#F5F0E8",
+      "rgb": [
+        245,
+        240,
+        232
+      ]
+    },
+    {
+      "role": "gold",
+      "name": "warm-metallic-gold",
+      "hex": "#C9A227",
+      "rgb": [
+        201,
+        162,
+        39
+      ]
+    },
+    {
+      "role": "ink",
+      "name": "near-black",
+      "hex": "#140A12",
+      "rgb": [
+        20,
+        10,
+        18
+      ]
+    }
+  ],
+  "reference_count": 46,
+  "references": [
+    "royal-amethyst--amethyst-glow--01.jpg",
+    "royal-amethyst--crystal-crown--06.jpg",
+    "lux-red--burgundy-night--04.jpg",
+    "lux-red--burgundy-night--05.jpg",
+    "lux-red--gold-ember--07.jpg",
+    "lux-red--gold-ember--08.jpg",
+    "lux-red--gold-ember--09.jpg",
+    "lux-red--scarlet-lux--10.jpg",
+    "lux-red--scarlet-lux--11.jpg",
+    "lux-red--scarlet-lux--12.jpg",
+    "lux-red--scarlet-lux--14.jpg",
+    "gilded-dune--desert-gilt--03.jpg",
+    "gilded-dune--desert-gilt--04.jpg",
+    "gilded-dune--desert-gilt--05.jpg",
+    "gilded-dune--desert-gilt--06.jpg",
+    "gilded-dune--desert-gilt--07.jpg",
+    "gilded-dune--desert-gilt--08.jpg",
+    "gilded-dune--desert-gilt--09.jpg",
+    "gilded-dune--golden-wave--10.jpg",
+    "autumn-earth--fire-ember--01.jpg",
+    "autumn-earth--harvest-ember--03.jpg",
+    "autumn-earth--harvest-ember--04.jpg",
+    "autumn-earth--rust-leaf--05.jpg",
+    "autumn-earth--rust-leaf--06.jpg",
+    "autumn-earth--rust-leaf--07.jpg",
+    "autumn-earth--rust-leaf--08.jpg",
+    "autumn-earth--rust-leaf--09.jpg",
+    "autumn-earth--rust-leaf--10.jpg",
+    "autumn-earth--rust-leaf--12.jpg",
+    "autumn-earth--rust-leaf--14.jpg",
+    "autumn-earth--rust-leaf--15.jpg",
+    "autumn-earth--rust-leaf--16.jpg",
+    "autumn-earth--vibrant-canopy--02.jpg",
+    "autumn-earth--warm-earth--17.jpg",
+    "autumn-earth--warm-earth--19.jpg",
+    "mono-neutral--charcoal--02.jpg",
+    "mono-neutral--graphite--04.jpg",
+    "mono-neutral--graphite--06.jpg",
+    "mono-neutral--ivory-ink--08.jpg",
+    "mono-neutral--ivory-ink--09.jpg",
+    "cosmic-aurora--nebula--03.jpg",
+    "bright-jewel--jewel-burst--04.jpg",
+    "bright-jewel--jewel-burst--06.jpg",
+    "bright-jewel--jewel-burst--07.jpg",
+    "bright-jewel--jewel-burst--09.jpg",
+    "bright-jewel--rainbow-pop--17.jpg"
+  ],
+  "generated": [
+    "antichrist--geometry--01.png",
+    "antichrist--materials-mood--01.png",
+    "antichrist--palette-board--01.png"
+  ]
+}

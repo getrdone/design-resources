@@ -1,0 +1,56 @@
+{
+  "image": "gilded-dune--desert-gilt--07.jpg",
+  "theme": "gilded-dune",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#5d4115",
+      "rgb": [
+        93,
+        65,
+        21
+      ],
+      "share": 0.2397
+    },
+    {
+      "role": "primary",
+      "hex": "#c69b27",
+      "rgb": [
+        198,
+        155,
+        39
+      ],
+      "share": 0.2693
+    },
+    {
+      "role": "accent",
+      "hex": "#cfbb3d",
+      "rgb": [
+        207,
+        187,
+        61
+      ],
+      "share": 0.1322
+    },
+    {
+      "role": "highlight",
+      "hex": "#e7d546",
+      "rgb": [
+        231,
+        213,
+        70
+      ],
+      "share": 0.1311
+    },
+    {
+      "role": "ink",
+      "hex": "#ab711b",
+      "rgb": [
+        171,
+        113,
+        27
+      ],
+      "share": 0.2277
+    }
+  ]
+}

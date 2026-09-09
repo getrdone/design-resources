@@ -1,0 +1,56 @@
+{
+  "image": "autumn-earth--warm-earth--18.jpg",
+  "theme": "autumn-earth",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#0d0c0c",
+      "rgb": [
+        13,
+        12,
+        12
+      ],
+      "share": 0.2123
+    },
+    {
+      "role": "primary",
+      "hex": "#37332f",
+      "rgb": [
+        55,
+        51,
+        47
+      ],
+      "share": 0.2706
+    },
+    {
+      "role": "accent",
+      "hex": "#252321",
+      "rgb": [
+        37,
+        35,
+        33
+      ],
+      "share": 0.168
+    },
+    {
+      "role": "highlight",
+      "hex": "#73634f",
+      "rgb": [
+        115,
+        99,
+        79
+      ],
+      "share": 0.1918
+    },
+    {
+      "role": "ink",
+      "hex": "#1c1a18",
+      "rgb": [
+        28,
+        26,
+        24
+      ],
+      "share": 0.1572
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--shadow-bloom--01.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#09090c",
+      "rgb": [
+        9,
+        9,
+        12
+      ],
+      "share": 0.2802
+    },
+    {
+      "role": "primary",
+      "hex": "#77070e",
+      "rgb": [
+        119,
+        7,
+        14
+      ],
+      "share": 0.1658
+    },
+    {
+      "role": "accent",
+      "hex": "#23252f",
+      "rgb": [
+        35,
+        37,
+        47
+      ],
+      "share": 0.1579
+    },
+    {
+      "role": "highlight",
+      "hex": "#60667b",
+      "rgb": [
+        96,
+        102,
+        123
+      ],
+      "share": 0.1172
+    },
+    {
+      "role": "ink",
+      "hex": "#18171e",
+      "rgb": [
+        24,
+        23,
+        30
+      ],
+      "share": 0.2789
+    }
+  ]
+}

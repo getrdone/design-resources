@@ -1,0 +1,13 @@
+/* Theme: antichrist — purple / scarlet / pearl / gold (NO blue) */
+:root {
+  --theme-purple: #4A0E4E;
+  --theme-purple-rgb: 74, 14, 78;
+  --theme-scarlet: #9B1B1E;
+  --theme-scarlet-rgb: 155, 27, 30;
+  --theme-pearl: #F5F0E8;
+  --theme-pearl-rgb: 245, 240, 232;
+  --theme-gold: #C9A227;
+  --theme-gold-rgb: 201, 162, 39;
+  --theme-ink: #140A12;
+  --theme-ink-rgb: 20, 10, 18;
+}

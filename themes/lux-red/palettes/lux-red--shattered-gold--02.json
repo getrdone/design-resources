@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--shattered-gold--02.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#151f23",
+      "rgb": [
+        21,
+        31,
+        35
+      ],
+      "share": 0.3152
+    },
+    {
+      "role": "primary",
+      "hex": "#4e4540",
+      "rgb": [
+        78,
+        69,
+        64
+      ],
+      "share": 0.2541
+    },
+    {
+      "role": "accent",
+      "hex": "#5e5a4f",
+      "rgb": [
+        94,
+        90,
+        79
+      ],
+      "share": 0.1576
+    },
+    {
+      "role": "highlight",
+      "hex": "#d8a25b",
+      "rgb": [
+        216,
+        162,
+        91
+      ],
+      "share": 0.1394
+    },
+    {
+      "role": "ink",
+      "hex": "#4a2a2b",
+      "rgb": [
+        74,
+        42,
+        43
+      ],
+      "share": 0.1337
+    }
+  ]
+}

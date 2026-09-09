@@ -1,0 +1,56 @@
+{
+  "image": "mono-neutral--graphite--06.jpg",
+  "theme": "mono-neutral",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#706453",
+      "rgb": [
+        112,
+        100,
+        83
+      ],
+      "share": 0.1907
+    },
+    {
+      "role": "primary",
+      "hex": "#cdd4d4",
+      "rgb": [
+        205,
+        212,
+        212
+      ],
+      "share": 0.1478
+    },
+    {
+      "role": "accent",
+      "hex": "#b2b7b4",
+      "rgb": [
+        178,
+        183,
+        180
+      ],
+      "share": 0.2294
+    },
+    {
+      "role": "highlight",
+      "hex": "#e9eeec",
+      "rgb": [
+        233,
+        238,
+        236
+      ],
+      "share": 0.1268
+    },
+    {
+      "role": "ink",
+      "hex": "#9a998f",
+      "rgb": [
+        154,
+        153,
+        143
+      ],
+      "share": 0.3053
+    }
+  ]
+}

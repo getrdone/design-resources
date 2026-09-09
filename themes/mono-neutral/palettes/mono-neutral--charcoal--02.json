@@ -1,0 +1,56 @@
+{
+  "image": "mono-neutral--charcoal--02.jpg",
+  "theme": "mono-neutral",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "share": 0.3781
+    },
+    {
+      "role": "primary",
+      "hex": "#030203",
+      "rgb": [
+        3,
+        2,
+        3
+      ],
+      "share": 0.1776
+    },
+    {
+      "role": "accent",
+      "hex": "#3e3b3a",
+      "rgb": [
+        62,
+        59,
+        58
+      ],
+      "share": 0.1258
+    },
+    {
+      "role": "highlight",
+      "hex": "#c1c1c6",
+      "rgb": [
+        193,
+        193,
+        198
+      ],
+      "share": 0.2794
+    },
+    {
+      "role": "ink",
+      "hex": "#000002",
+      "rgb": [
+        0,
+        0,
+        2
+      ],
+      "share": 0.0391
+    }
+  ]
+}

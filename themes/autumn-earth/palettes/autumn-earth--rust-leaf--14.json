@@ -1,0 +1,56 @@
+{
+  "image": "autumn-earth--rust-leaf--14.jpg",
+  "theme": "autumn-earth",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#161413",
+      "rgb": [
+        22,
+        20,
+        19
+      ],
+      "share": 0.2392
+    },
+    {
+      "role": "primary",
+      "hex": "#7d5e49",
+      "rgb": [
+        125,
+        94,
+        73
+      ],
+      "share": 0.1677
+    },
+    {
+      "role": "accent",
+      "hex": "#59453a",
+      "rgb": [
+        89,
+        69,
+        58
+      ],
+      "share": 0.2077
+    },
+    {
+      "role": "highlight",
+      "hex": "#9a775c",
+      "rgb": [
+        154,
+        119,
+        92
+      ],
+      "share": 0.1127
+    },
+    {
+      "role": "ink",
+      "hex": "#382a24",
+      "rgb": [
+        56,
+        42,
+        36
+      ],
+      "share": 0.2727
+    }
+  ]
+}

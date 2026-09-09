@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--scarlet-lux--14.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#4a1415",
+      "rgb": [
+        74,
+        20,
+        21
+      ],
+      "share": 0.2965
+    },
+    {
+      "role": "primary",
+      "hex": "#9e3e36",
+      "rgb": [
+        158,
+        62,
+        54
+      ],
+      "share": 0.1925
+    },
+    {
+      "role": "accent",
+      "hex": "#c26b53",
+      "rgb": [
+        194,
+        107,
+        83
+      ],
+      "share": 0.17
+    },
+    {
+      "role": "highlight",
+      "hex": "#f6ede7",
+      "rgb": [
+        246,
+        237,
+        231
+      ],
+      "share": 0.1108
+    },
+    {
+      "role": "ink",
+      "hex": "#96181c",
+      "rgb": [
+        150,
+        24,
+        28
+      ],
+      "share": 0.2302
+    }
+  ]
+}

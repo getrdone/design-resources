@@ -1,0 +1,56 @@
+{
+  "image": "gilded-dune--golden-surf--01.jpg",
+  "theme": "gilded-dune",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#0f1c29",
+      "rgb": [
+        15,
+        28,
+        41
+      ],
+      "share": 0.2292
+    },
+    {
+      "role": "primary",
+      "hex": "#28343f",
+      "rgb": [
+        40,
+        52,
+        63
+      ],
+      "share": 0.1438
+    },
+    {
+      "role": "accent",
+      "hex": "#4c5961",
+      "rgb": [
+        76,
+        89,
+        97
+      ],
+      "share": 0.2691
+    },
+    {
+      "role": "highlight",
+      "hex": "#97a09b",
+      "rgb": [
+        151,
+        160,
+        155
+      ],
+      "share": 0.2071
+    },
+    {
+      "role": "ink",
+      "hex": "#172a3d",
+      "rgb": [
+        23,
+        42,
+        61
+      ],
+      "share": 0.1507
+    }
+  ]
+}

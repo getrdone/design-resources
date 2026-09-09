@@ -1,0 +1,56 @@
+{
+  "image": "blue-marble--ice-blue--01.jpg",
+  "theme": "blue-marble",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#115b8d",
+      "rgb": [
+        17,
+        91,
+        141
+      ],
+      "share": 0.2003
+    },
+    {
+      "role": "primary",
+      "hex": "#408aa9",
+      "rgb": [
+        64,
+        138,
+        169
+      ],
+      "share": 0.1452
+    },
+    {
+      "role": "accent",
+      "hex": "#4eacc9",
+      "rgb": [
+        78,
+        172,
+        201
+      ],
+      "share": 0.2581
+    },
+    {
+      "role": "highlight",
+      "hex": "#92c8db",
+      "rgb": [
+        146,
+        200,
+        219
+      ],
+      "share": 0.2324
+    },
+    {
+      "role": "ink",
+      "hex": "#147eb1",
+      "rgb": [
+        20,
+        126,
+        177
+      ],
+      "share": 0.164
+    }
+  ]
+}

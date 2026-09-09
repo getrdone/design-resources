@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--blood-velvet--03.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#471318",
+      "rgb": [
+        71,
+        19,
+        24
+      ],
+      "share": 0.2843
+    },
+    {
+      "role": "primary",
+      "hex": "#785262",
+      "rgb": [
+        120,
+        82,
+        98
+      ],
+      "share": 0.2357
+    },
+    {
+      "role": "accent",
+      "hex": "#8c747d",
+      "rgb": [
+        140,
+        116,
+        125
+      ],
+      "share": 0.1734
+    },
+    {
+      "role": "highlight",
+      "hex": "#b8a6a2",
+      "rgb": [
+        184,
+        166,
+        162
+      ],
+      "share": 0.1136
+    },
+    {
+      "role": "ink",
+      "hex": "#891e44",
+      "rgb": [
+        137,
+        30,
+        68
+      ],
+      "share": 0.193
+    }
+  ]
+}

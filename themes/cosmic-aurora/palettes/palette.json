@@ -1,0 +1,56 @@
+{
+  "image": "palette.png",
+  "theme": "cosmic-aurora",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#050f1b",
+      "rgb": [
+        5,
+        15,
+        27
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "primary",
+      "hex": "#6c8c79",
+      "rgb": [
+        108,
+        140,
+        121
+      ],
+      "share": 0.1688
+    },
+    {
+      "role": "accent",
+      "hex": "#4d5851",
+      "rgb": [
+        77,
+        88,
+        81
+      ],
+      "share": 0.1688
+    },
+    {
+      "role": "highlight",
+      "hex": "#e4e8e8",
+      "rgb": [
+        228,
+        232,
+        232
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "ink",
+      "hex": "#2f2233",
+      "rgb": [
+        47,
+        34,
+        51
+      ],
+      "share": 0.3312
+    }
+  ]
+}

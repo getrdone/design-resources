@@ -1,0 +1,56 @@
+{
+  "image": "zen-mist--tranquil-waterfall--01.jpg",
+  "theme": "zen-mist",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#294849",
+      "rgb": [
+        41,
+        72,
+        73
+      ],
+      "share": 0.2536
+    },
+    {
+      "role": "primary",
+      "hex": "#86adb9",
+      "rgb": [
+        134,
+        173,
+        185
+      ],
+      "share": 0.185
+    },
+    {
+      "role": "accent",
+      "hex": "#c0ced3",
+      "rgb": [
+        192,
+        206,
+        211
+      ],
+      "share": 0.1719
+    },
+    {
+      "role": "highlight",
+      "hex": "#dae8f0",
+      "rgb": [
+        218,
+        232,
+        240
+      ],
+      "share": 0.1366
+    },
+    {
+      "role": "ink",
+      "hex": "#507a7c",
+      "rgb": [
+        80,
+        122,
+        124
+      ],
+      "share": 0.2529
+    }
+  ]
+}

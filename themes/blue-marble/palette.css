@@ -1,0 +1,15 @@
+/* Theme: blue-marble */
+:root {
+  --theme-background: #031026;
+  --theme-background-rgb: 3, 16, 38;
+  --theme-primary: #105b8c;
+  --theme-primary-rgb: 16, 91, 140;
+  --theme-accent: #518a9d;
+  --theme-accent-rgb: 81, 138, 157;
+  --theme-highlight: #95c4cb;
+  --theme-highlight-rgb: 149, 196, 203;
+  --theme-muted: #535d6b;
+  --theme-muted-rgb: 83, 93, 107;
+  --theme-ink: #1d273c;
+  --theme-ink-rgb: 29, 39, 60;
+}

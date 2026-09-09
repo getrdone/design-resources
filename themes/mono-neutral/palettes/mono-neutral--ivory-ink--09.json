@@ -1,0 +1,56 @@
+{
+  "image": "mono-neutral--ivory-ink--09.jpg",
+  "theme": "mono-neutral",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#6d6969",
+      "rgb": [
+        109,
+        105,
+        105
+      ],
+      "share": 0.23
+    },
+    {
+      "role": "primary",
+      "hex": "#f7f4ef",
+      "rgb": [
+        247,
+        244,
+        239
+      ],
+      "share": 0.4207
+    },
+    {
+      "role": "accent",
+      "hex": "#f7f3ef",
+      "rgb": [
+        247,
+        243,
+        239
+      ],
+      "share": 0.1636
+    },
+    {
+      "role": "highlight",
+      "hex": "#f8f5f1",
+      "rgb": [
+        248,
+        245,
+        241
+      ],
+      "share": 0.0114
+    },
+    {
+      "role": "ink",
+      "hex": "#d7d3d0",
+      "rgb": [
+        215,
+        211,
+        208
+      ],
+      "share": 0.1743
+    }
+  ]
+}

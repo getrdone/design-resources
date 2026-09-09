@@ -1,0 +1,56 @@
+{
+  "image": "gilded-dune--sunset-coast--02.jpg",
+  "theme": "gilded-dune",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#3f3d35",
+      "rgb": [
+        63,
+        61,
+        53
+      ],
+      "share": 0.245
+    },
+    {
+      "role": "primary",
+      "hex": "#9d6f51",
+      "rgb": [
+        157,
+        111,
+        81
+      ],
+      "share": 0.1663
+    },
+    {
+      "role": "accent",
+      "hex": "#aa8f7d",
+      "rgb": [
+        170,
+        143,
+        125
+      ],
+      "share": 0.1652
+    },
+    {
+      "role": "highlight",
+      "hex": "#edbe7d",
+      "rgb": [
+        237,
+        190,
+        125
+      ],
+      "share": 0.1324
+    },
+    {
+      "role": "ink",
+      "hex": "#954d25",
+      "rgb": [
+        149,
+        77,
+        37
+      ],
+      "share": 0.291
+    }
+  ]
+}

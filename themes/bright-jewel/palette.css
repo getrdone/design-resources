@@ -1,0 +1,15 @@
+/* Theme: bright-jewel */
+:root {
+  --theme-background: #051524;
+  --theme-background-rgb: 5, 21, 36;
+  --theme-primary: #7c2a28;
+  --theme-primary-rgb: 124, 42, 40;
+  --theme-accent: #52a081;
+  --theme-accent-rgb: 82, 160, 129;
+  --theme-highlight: #cfba49;
+  --theme-highlight-rgb: 207, 186, 73;
+  --theme-muted: #635d53;
+  --theme-muted-rgb: 99, 93, 83;
+  --theme-ink: #25252e;
+  --theme-ink-rgb: 37, 37, 46;
+}

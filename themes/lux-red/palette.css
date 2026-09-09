@@ -1,0 +1,15 @@
+/* Theme: lux-red */
+:root {
+  --theme-background: #0c0b0d;
+  --theme-background-rgb: 12, 11, 13;
+  --theme-primary: #792d2a;
+  --theme-primary-rgb: 121, 45, 42;
+  --theme-accent: #714a41;
+  --theme-accent-rgb: 113, 74, 65;
+  --theme-highlight: #ad886a;
+  --theme-highlight-rgb: 173, 136, 106;
+  --theme-muted: #292b2c;
+  --theme-muted-rgb: 41, 43, 44;
+  --theme-ink: #641012;
+  --theme-ink-rgb: 100, 16, 18;
+}

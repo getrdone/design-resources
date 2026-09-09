@@ -1,0 +1,56 @@
+{
+  "image": "autumn-earth--vibrant-canopy--02.jpg",
+  "theme": "autumn-earth",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#583b35",
+      "rgb": [
+        88,
+        59,
+        53
+      ],
+      "share": 0.2132
+    },
+    {
+      "role": "primary",
+      "hex": "#875c47",
+      "rgb": [
+        135,
+        92,
+        71
+      ],
+      "share": 0.1686
+    },
+    {
+      "role": "accent",
+      "hex": "#8c7163",
+      "rgb": [
+        140,
+        113,
+        99
+      ],
+      "share": 0.1486
+    },
+    {
+      "role": "highlight",
+      "hex": "#a1a5a9",
+      "rgb": [
+        161,
+        165,
+        169
+      ],
+      "share": 0.1105
+    },
+    {
+      "role": "ink",
+      "hex": "#a64022",
+      "rgb": [
+        166,
+        64,
+        34
+      ],
+      "share": 0.3592
+    }
+  ]
+}

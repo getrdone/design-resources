@@ -1,0 +1,56 @@
+{
+  "image": "zen-mist--misty-pool--02.jpg",
+  "theme": "zen-mist",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#534e5a",
+      "rgb": [
+        83,
+        78,
+        90
+      ],
+      "share": 0.2022
+    },
+    {
+      "role": "primary",
+      "hex": "#a4807e",
+      "rgb": [
+        164,
+        128,
+        126
+      ],
+      "share": 0.2134
+    },
+    {
+      "role": "accent",
+      "hex": "#9bacb6",
+      "rgb": [
+        155,
+        172,
+        182
+      ],
+      "share": 0.1852
+    },
+    {
+      "role": "highlight",
+      "hex": "#e2ccbe",
+      "rgb": [
+        226,
+        204,
+        190
+      ],
+      "share": 0.2468
+    },
+    {
+      "role": "ink",
+      "hex": "#697b92",
+      "rgb": [
+        105,
+        123,
+        146
+      ],
+      "share": 0.1523
+    }
+  ]
+}

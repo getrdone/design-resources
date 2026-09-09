@@ -1,0 +1,15 @@
+/* Theme: autumn-earth */
+:root {
+  --theme-background: #14110f;
+  --theme-background-rgb: 20, 17, 15;
+  --theme-primary: #a76632;
+  --theme-primary-rgb: 167, 102, 50;
+  --theme-accent: #ad8956;
+  --theme-accent-rgb: 173, 137, 86;
+  --theme-highlight: #d0b782;
+  --theme-highlight-rgb: 208, 183, 130;
+  --theme-muted: #6a5f47;
+  --theme-muted-rgb: 106, 95, 71;
+  --theme-ink: #693921;
+  --theme-ink-rgb: 105, 57, 33;
+}

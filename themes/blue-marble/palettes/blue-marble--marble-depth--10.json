@@ -1,0 +1,56 @@
+{
+  "image": "blue-marble--marble-depth--10.jpg",
+  "theme": "blue-marble",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#071129",
+      "rgb": [
+        7,
+        17,
+        41
+      ],
+      "share": 0.1951
+    },
+    {
+      "role": "primary",
+      "hex": "#042f6a",
+      "rgb": [
+        4,
+        47,
+        106
+      ],
+      "share": 0.192
+    },
+    {
+      "role": "accent",
+      "hex": "#1f4a76",
+      "rgb": [
+        31,
+        74,
+        118
+      ],
+      "share": 0.2001
+    },
+    {
+      "role": "highlight",
+      "hex": "#376f9f",
+      "rgb": [
+        55,
+        111,
+        159
+      ],
+      "share": 0.2335
+    },
+    {
+      "role": "ink",
+      "hex": "#1b2b44",
+      "rgb": [
+        27,
+        43,
+        68
+      ],
+      "share": 0.1793
+    }
+  ]
+}

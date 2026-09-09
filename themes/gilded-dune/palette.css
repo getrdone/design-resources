@@ -1,0 +1,15 @@
+/* Theme: gilded-dune */
+:root {
+  --theme-background: #1a1d27;
+  --theme-background-rgb: 26, 29, 39;
+  --theme-primary: #9f6e2a;
+  --theme-primary-rgb: 159, 110, 42;
+  --theme-accent: #b69956;
+  --theme-accent-rgb: 182, 153, 86;
+  --theme-highlight: #f5de97;
+  --theme-highlight-rgb: 245, 222, 151;
+  --theme-muted: #d1c29c;
+  --theme-muted-rgb: 209, 194, 156;
+  --theme-ink: #515e65;
+  --theme-ink-rgb: 81, 94, 101;
+}

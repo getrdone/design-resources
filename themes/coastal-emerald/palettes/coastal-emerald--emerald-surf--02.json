@@ -1,0 +1,56 @@
+{
+  "image": "coastal-emerald--emerald-surf--02.jpg",
+  "theme": "coastal-emerald",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#132813",
+      "rgb": [
+        19,
+        40,
+        19
+      ],
+      "share": 0.2316
+    },
+    {
+      "role": "primary",
+      "hex": "#2c5c35",
+      "rgb": [
+        44,
+        92,
+        53
+      ],
+      "share": 0.2518
+    },
+    {
+      "role": "accent",
+      "hex": "#3b7144",
+      "rgb": [
+        59,
+        113,
+        68
+      ],
+      "share": 0.1304
+    },
+    {
+      "role": "highlight",
+      "hex": "#4f8760",
+      "rgb": [
+        79,
+        135,
+        96
+      ],
+      "share": 0.1408
+    },
+    {
+      "role": "ink",
+      "hex": "#254728",
+      "rgb": [
+        37,
+        71,
+        40
+      ],
+      "share": 0.2454
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+/* Theme: mono-neutral */
+:root {
+  --theme-background: #030303;
+  --theme-background-rgb: 3, 3, 3;
+  --theme-primary: #dcddb3;
+  --theme-primary-rgb: 220, 221, 179;
+  --theme-accent: #b0b19e;
+  --theme-accent-rgb: 176, 177, 158;
+  --theme-highlight: #ededea;
+  --theme-highlight-rgb: 237, 237, 234;
+  --theme-muted: #686865;
+  --theme-muted-rgb: 104, 104, 101;
+  --theme-ink: #272827;
+  --theme-ink-rgb: 39, 40, 39;
+}

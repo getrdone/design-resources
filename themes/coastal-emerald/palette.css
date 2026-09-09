@@ -1,0 +1,15 @@
+/* Theme: coastal-emerald */
+:root {
+  --theme-background: #000000;
+  --theme-background-rgb: 0, 0, 0;
+  --theme-primary: #14341e;
+  --theme-primary-rgb: 20, 52, 30;
+  --theme-accent: #49b375;
+  --theme-accent-rgb: 73, 179, 117;
+  --theme-highlight: #b9c9af;
+  --theme-highlight-rgb: 185, 201, 175;
+  --theme-muted: #2e704a;
+  --theme-muted-rgb: 46, 112, 74;
+  --theme-ink: #000001;
+  --theme-ink-rgb: 0, 0, 1;
+}

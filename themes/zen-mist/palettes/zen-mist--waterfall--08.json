@@ -1,0 +1,56 @@
+{
+  "image": "zen-mist--waterfall--08.jpg",
+  "theme": "zen-mist",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#3e561f",
+      "rgb": [
+        62,
+        86,
+        31
+      ],
+      "share": 0.1845
+    },
+    {
+      "role": "primary",
+      "hex": "#8aa972",
+      "rgb": [
+        138,
+        169,
+        114
+      ],
+      "share": 0.1037
+    },
+    {
+      "role": "accent",
+      "hex": "#818b80",
+      "rgb": [
+        129,
+        139,
+        128
+      ],
+      "share": 0.241
+    },
+    {
+      "role": "highlight",
+      "hex": "#b8de97",
+      "rgb": [
+        184,
+        222,
+        151
+      ],
+      "share": 0.2393
+    },
+    {
+      "role": "ink",
+      "hex": "#598729",
+      "rgb": [
+        89,
+        135,
+        41
+      ],
+      "share": 0.2314
+    }
+  ]
+}

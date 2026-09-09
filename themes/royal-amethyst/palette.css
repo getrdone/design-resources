@@ -1,0 +1,15 @@
+/* Theme: royal-amethyst */
+:root {
+  --theme-background: #020103;
+  --theme-background-rgb: 2, 1, 3;
+  --theme-primary: #5c1a3c;
+  --theme-primary-rgb: 92, 26, 60;
+  --theme-accent: #694669;
+  --theme-accent-rgb: 105, 70, 105;
+  --theme-highlight: #c8aa99;
+  --theme-highlight-rgb: 200, 170, 153;
+  --theme-muted: #98778c;
+  --theme-muted-rgb: 152, 119, 140;
+  --theme-ink: #1f0f29;
+  --theme-ink-rgb: 31, 15, 41;
+}

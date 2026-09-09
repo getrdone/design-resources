@@ -1,0 +1,56 @@
+{
+  "image": "gilded-dune--golden-wave--10.jpg",
+  "theme": "gilded-dune",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#97745b",
+      "rgb": [
+        151,
+        116,
+        91
+      ],
+      "share": 0.1904
+    },
+    {
+      "role": "primary",
+      "hex": "#d4c7be",
+      "rgb": [
+        212,
+        199,
+        190
+      ],
+      "share": 0.227
+    },
+    {
+      "role": "accent",
+      "hex": "#e8e0db",
+      "rgb": [
+        232,
+        224,
+        219
+      ],
+      "share": 0.1529
+    },
+    {
+      "role": "highlight",
+      "hex": "#f4efea",
+      "rgb": [
+        244,
+        239,
+        234
+      ],
+      "share": 0.1294
+    },
+    {
+      "role": "ink",
+      "hex": "#bba595",
+      "rgb": [
+        187,
+        165,
+        149
+      ],
+      "share": 0.3003
+    }
+  ]
+}

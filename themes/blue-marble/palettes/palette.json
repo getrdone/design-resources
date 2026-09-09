@@ -1,0 +1,56 @@
+{
+  "image": "palette.png",
+  "theme": "blue-marble",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#071f44",
+      "rgb": [
+        7,
+        31,
+        68
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "primary",
+      "hex": "#376583",
+      "rgb": [
+        55,
+        101,
+        131
+      ],
+      "share": 0.175
+    },
+    {
+      "role": "accent",
+      "hex": "#333545",
+      "rgb": [
+        51,
+        53,
+        69
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "highlight",
+      "hex": "#79adb8",
+      "rgb": [
+        121,
+        173,
+        184
+      ],
+      "share": 0.3281
+    },
+    {
+      "role": "ink",
+      "hex": "#15263f",
+      "rgb": [
+        21,
+        38,
+        63
+      ],
+      "share": 0.1656
+    }
+  ]
+}

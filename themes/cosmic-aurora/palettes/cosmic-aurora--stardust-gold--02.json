@@ -1,0 +1,56 @@
+{
+  "image": "cosmic-aurora--stardust-gold--02.jpg",
+  "theme": "cosmic-aurora",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#02080f",
+      "rgb": [
+        2,
+        8,
+        15
+      ],
+      "share": 0.2346
+    },
+    {
+      "role": "primary",
+      "hex": "#29343c",
+      "rgb": [
+        41,
+        52,
+        60
+      ],
+      "share": 0.2652
+    },
+    {
+      "role": "accent",
+      "hex": "#181b1e",
+      "rgb": [
+        24,
+        27,
+        30
+      ],
+      "share": 0.1031
+    },
+    {
+      "role": "highlight",
+      "hex": "#67645c",
+      "rgb": [
+        103,
+        100,
+        92
+      ],
+      "share": 0.2145
+    },
+    {
+      "role": "ink",
+      "hex": "#0a1621",
+      "rgb": [
+        10,
+        22,
+        33
+      ],
+      "share": 0.1826
+    }
+  ]
+}

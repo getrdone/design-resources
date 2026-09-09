@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--gold-ember--08.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#160608",
+      "rgb": [
+        22,
+        6,
+        8
+      ],
+      "share": 0.3231
+    },
+    {
+      "role": "primary",
+      "hex": "#77331e",
+      "rgb": [
+        119,
+        51,
+        30
+      ],
+      "share": 0.187
+    },
+    {
+      "role": "accent",
+      "hex": "#a07547",
+      "rgb": [
+        160,
+        117,
+        71
+      ],
+      "share": 0.1614
+    },
+    {
+      "role": "highlight",
+      "hex": "#dabe79",
+      "rgb": [
+        218,
+        190,
+        121
+      ],
+      "share": 0.1151
+    },
+    {
+      "role": "ink",
+      "hex": "#680707",
+      "rgb": [
+        104,
+        7,
+        7
+      ],
+      "share": 0.2134
+    }
+  ]
+}

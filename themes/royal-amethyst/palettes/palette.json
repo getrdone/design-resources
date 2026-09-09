@@ -1,0 +1,56 @@
+{
+  "image": "palette.png",
+  "theme": "royal-amethyst",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#180f25",
+      "rgb": [
+        24,
+        15,
+        37
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "primary",
+      "hex": "#945c7e",
+      "rgb": [
+        148,
+        92,
+        126
+      ],
+      "share": 0.1719
+    },
+    {
+      "role": "accent",
+      "hex": "#a58391",
+      "rgb": [
+        165,
+        131,
+        145
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "highlight",
+      "hex": "#d0b19a",
+      "rgb": [
+        208,
+        177,
+        154
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "ink",
+      "hex": "#5c385c",
+      "rgb": [
+        92,
+        56,
+        92
+      ],
+      "share": 0.3312
+    }
+  ]
+}

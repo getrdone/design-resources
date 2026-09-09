@@ -1,0 +1,56 @@
+{
+  "image": "autumn-earth--fire-ember--01.jpg",
+  "theme": "autumn-earth",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#140602",
+      "rgb": [
+        20,
+        6,
+        2
+      ],
+      "share": 0.3296
+    },
+    {
+      "role": "primary",
+      "hex": "#b43608",
+      "rgb": [
+        180,
+        54,
+        8
+      ],
+      "share": 0.1825
+    },
+    {
+      "role": "accent",
+      "hex": "#781d06",
+      "rgb": [
+        120,
+        29,
+        6
+      ],
+      "share": 0.215
+    },
+    {
+      "role": "highlight",
+      "hex": "#ee801b",
+      "rgb": [
+        238,
+        128,
+        27
+      ],
+      "share": 0.1027
+    },
+    {
+      "role": "ink",
+      "hex": "#470c04",
+      "rgb": [
+        71,
+        12,
+        4
+      ],
+      "share": 0.1702
+    }
+  ]
+}

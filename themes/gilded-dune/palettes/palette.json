@@ -1,0 +1,56 @@
+{
+  "image": "palette.png",
+  "theme": "gilded-dune",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#373842",
+      "rgb": [
+        55,
+        56,
+        66
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "primary",
+      "hex": "#e5b540",
+      "rgb": [
+        229,
+        181,
+        64
+      ],
+      "share": 0.1688
+    },
+    {
+      "role": "accent",
+      "hex": "#b7a57a",
+      "rgb": [
+        183,
+        165,
+        122
+      ],
+      "share": 0.1688
+    },
+    {
+      "role": "highlight",
+      "hex": "#f1e4b9",
+      "rgb": [
+        241,
+        228,
+        185
+      ],
+      "share": 0.1656
+    },
+    {
+      "role": "ink",
+      "hex": "#8b7347",
+      "rgb": [
+        139,
+        115,
+        71
+      ],
+      "share": 0.3312
+    }
+  ]
+}

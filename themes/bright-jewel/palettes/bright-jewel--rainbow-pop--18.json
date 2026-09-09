@@ -1,0 +1,56 @@
+{
+  "image": "bright-jewel--rainbow-pop--18.jpg",
+  "theme": "bright-jewel",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#192935",
+      "rgb": [
+        25,
+        41,
+        53
+      ],
+      "share": 0.2488
+    },
+    {
+      "role": "primary",
+      "hex": "#b5784b",
+      "rgb": [
+        181,
+        120,
+        75
+      ],
+      "share": 0.1583
+    },
+    {
+      "role": "accent",
+      "hex": "#774f3e",
+      "rgb": [
+        119,
+        79,
+        62
+      ],
+      "share": 0.1554
+    },
+    {
+      "role": "highlight",
+      "hex": "#ecaf48",
+      "rgb": [
+        236,
+        175,
+        72
+      ],
+      "share": 0.1522
+    },
+    {
+      "role": "ink",
+      "hex": "#3d383a",
+      "rgb": [
+        61,
+        56,
+        58
+      ],
+      "share": 0.2854
+    }
+  ]
+}

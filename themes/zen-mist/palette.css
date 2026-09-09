@@ -1,0 +1,15 @@
+/* Theme: zen-mist */
+:root {
+  --theme-background: #120f12;
+  --theme-background-rgb: 18, 15, 18;
+  --theme-primary: #8d6f74;
+  --theme-primary-rgb: 141, 111, 116;
+  --theme-accent: #afc2bd;
+  --theme-accent-rgb: 175, 194, 189;
+  --theme-highlight: #dad7d9;
+  --theme-highlight-rgb: 218, 215, 217;
+  --theme-muted: #989b9a;
+  --theme-muted-rgb: 152, 155, 154;
+  --theme-ink: #46605d;
+  --theme-ink-rgb: 70, 96, 93;
+}

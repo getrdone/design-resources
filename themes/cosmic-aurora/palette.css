@@ -1,0 +1,15 @@
+/* Theme: cosmic-aurora */
+:root {
+  --theme-background: #000000;
+  --theme-background-rgb: 0, 0, 0;
+  --theme-primary: #00050b;
+  --theme-primary-rgb: 0, 5, 11;
+  --theme-accent: #130c1d;
+  --theme-accent-rgb: 19, 12, 29;
+  --theme-highlight: #91a096;
+  --theme-highlight-rgb: 145, 160, 150;
+  --theme-muted: #32393e;
+  --theme-muted-rgb: 50, 57, 62;
+  --theme-ink: #000001;
+  --theme-ink-rgb: 0, 0, 1;
+}

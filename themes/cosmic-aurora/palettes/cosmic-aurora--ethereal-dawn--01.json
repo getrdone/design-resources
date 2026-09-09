@@ -1,0 +1,56 @@
+{
+  "image": "cosmic-aurora--ethereal-dawn--01.jpg",
+  "theme": "cosmic-aurora",
+  "colors": [
+    {
+      "role": "background",
+      "hex": "#040919",
+      "rgb": [
+        4,
+        9,
+        25
+      ],
+      "share": 0.3147
+    },
+    {
+      "role": "primary",
+      "hex": "#84949e",
+      "rgb": [
+        132,
+        148,
+        158
+      ],
+      "share": 0.13
+    },
+    {
+      "role": "accent",
+      "hex": "#f2f2f2",
+      "rgb": [
+        242,
+        242,
+        242
+      ],
+      "share": 0.2816
+    },
+    {
+      "role": "highlight",
+      "hex": "#f0f3f2",
+      "rgb": [
+        240,
+        243,
+        242
+      ],
+      "share": 0.0393
+    },
+    {
+      "role": "ink",
+      "hex": "#3c113f",
+      "rgb": [
+        60,
+        17,
+        63
+      ],
+      "share": 0.2344
+    }
+  ]
+}
