@@ -1,0 +1,109 @@
+{
+  "theme": "beast-mark-techno-full",
+  "brief": "Full technocratic Mark-of-the-Beast system: neon green, electric cyan, stark white, matte gray, clinic slate, void black, plus biometric magenta, signal amber, cold silver, carbon black \u2014 cold clinical control with mark/signal accents (not fiery apocalypse).",
+  "colors": [
+    {
+      "role": "neon",
+      "name": "neon-green",
+      "hex": "#7CFF2A",
+      "rgb": [
+        124,
+        255,
+        42
+      ]
+    },
+    {
+      "role": "cyan",
+      "name": "electric-cyan",
+      "hex": "#00E5FF",
+      "rgb": [
+        0,
+        229,
+        255
+      ]
+    },
+    {
+      "role": "white",
+      "name": "stark-white",
+      "hex": "#F5F7FA",
+      "rgb": [
+        245,
+        247,
+        250
+      ]
+    },
+    {
+      "role": "gray",
+      "name": "matte-gray",
+      "hex": "#8B939E",
+      "rgb": [
+        139,
+        147,
+        158
+      ]
+    },
+    {
+      "role": "slate",
+      "name": "clinic-slate",
+      "hex": "#3A424E",
+      "rgb": [
+        58,
+        66,
+        78
+      ]
+    },
+    {
+      "role": "void",
+      "name": "void-black",
+      "hex": "#0B1220",
+      "rgb": [
+        11,
+        18,
+        32
+      ]
+    },
+    {
+      "role": "magenta",
+      "name": "biometric-magenta",
+      "hex": "#FF2BD6",
+      "rgb": [
+        255,
+        43,
+        214
+      ]
+    },
+    {
+      "role": "amber",
+      "name": "signal-amber",
+      "hex": "#FFB020",
+      "rgb": [
+        255,
+        176,
+        32
+      ]
+    },
+    {
+      "role": "silver",
+      "name": "cold-silver",
+      "hex": "#C5CED8",
+      "rgb": [
+        197,
+        206,
+        216
+      ]
+    },
+    {
+      "role": "carbon",
+      "name": "carbon-black",
+      "hex": "#121417",
+      "rgb": [
+        18,
+        20,
+        23
+      ]
+    }
+  ],
+  "source_album": "mark-of-the-beast",
+  "sibling_of": "beast-mark-techno",
+  "notes": "Expanded full-color techno pack. Amber/magenta are system-signal accents, not a scarlet/fire brand."
+}

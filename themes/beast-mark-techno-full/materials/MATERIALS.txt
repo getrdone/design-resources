@@ -1,0 +1,15 @@
+﻿# Materials — beast-mark-techno-full
+Mood: full technocratic Mark-of-the-Beast control system; cold clinical neon + biometric signal accents.
+Surfaces:
+- neon-green phosphor strip
+- electric-cyan edge-lit acrylic
+- biometric-magenta light-pipe (secondary)
+- tiny signal-amber LED bead
+- stark-white ceramic laminate
+- matte-gray anodized aluminum / cold silver
+- clinic-slate brushed metal
+- carbon-fiber weave + void-black OLED glass with droplets
+Light: multi-neon self-illumination on wet dark void table.
+Hard rejects: fiery scarlet/blood as brand core; people; text; collage boards.
+Recreate prompt seed: neon green, cyan acrylic, magenta edge glow, amber LED bead, white ceramic, matte gray aluminum, carbon fiber, void black glass with droplets; beast-mark-techno-full; cold clinical; no people/text/collage. Reference neon-cyber + beast-mark-techno materials moods.
+Canonical ref image: materials/beast-mark-techno-full--materials-mood--01.png
