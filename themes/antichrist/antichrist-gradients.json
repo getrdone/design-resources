@@ -1,0 +1,101 @@
+{
+  "theme": "antichrist",
+  "rule": "purple, scarlet, pearl, gold, ink \u2014 no blues/teals/cyan",
+  "brand": {
+    "purple": "#4A0E4E",
+    "scarlet": "#9B1B1E",
+    "pearl": "#F5F0E8",
+    "gold": "#C9A227",
+    "ink": "#140A12"
+  },
+  "steps": [
+    50,
+    100,
+    200,
+    300,
+    400,
+    500,
+    600,
+    700,
+    800,
+    900,
+    950
+  ],
+  "scales": {
+    "purple": {
+      "50": "#EEEAEA",
+      "100": "#D7CFD3",
+      "200": "#B6A5B3",
+      "300": "#927690",
+      "400": "#6F4570",
+      "500": "#4A0E4E",
+      "600": "#410945",
+      "700": "#350937",
+      "800": "#280929",
+      "900": "#1C081C",
+      "950": "#120710"
+    },
+    "scarlet": {
+      "50": "#F2EBE9",
+      "100": "#E4D4D1",
+      "200": "#D0AEAC",
+      "300": "#BC8281",
+      "400": "#AB5253",
+      "500": "#9B1B1E",
+      "600": "#871114",
+      "700": "#6B0F12",
+      "800": "#4D0D10",
+      "900": "#330B0D",
+      "950": "#1C080B"
+    },
+    "pearl": {
+      "50": "#FEFEFE",
+      "100": "#FDFDFB",
+      "200": "#FCFAF7",
+      "300": "#F9F7F2",
+      "400": "#F7F3ED",
+      "500": "#F5F0E8",
+      "600": "#CEC6C3",
+      "700": "#A79D9F",
+      "800": "#7E7178",
+      "900": "#5A4956",
+      "950": "#372435"
+    },
+    "gold": {
+      "50": "#F5F2EA",
+      "100": "#EBE5D5",
+      "200": "#DFD4B2",
+      "300": "#D4C289",
+      "400": "#CDB25C",
+      "500": "#C9A227",
+      "600": "#AF8A19",
+      "700": "#896C17",
+      "800": "#624D13",
+      "900": "#403210",
+      "950": "#21190C"
+    },
+    "ink": {
+      "50": "#EEE8E5",
+      "100": "#D5CBCD",
+      "200": "#AFA0A9",
+      "300": "#857081",
+      "400": "#5B4059",
+      "500": "#140A12",
+      "600": "#120910",
+      "700": "#10090E",
+      "800": "#0E080C",
+      "900": "#0D070B",
+      "950": "#0B0609"
+    }
+  },
+  "usage": {
+    "css_vars": "--antichrist-{role}-{step} and --antichrist-{role}-gradient",
+    "files": {
+      "continuous": "palettes/gradients/antichrist-{role}-gradient.png",
+      "scale": "palettes/gradients/antichrist-{role}-scale.png",
+      "overview": "palettes/gradients/antichrist-all-gradients.png",
+      "json": "antichrist-gradients.json",
+      "css": "antichrist-gradients.css"
+    }
+  }
+}

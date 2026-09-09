@@ -1,0 +1,79 @@
+:root {
+  /* Antichrist color scales — full gradients for web */
+  --antichrist-purple-50: #EEEAEA;
+  --antichrist-purple-100: #D7CFD3;
+  --antichrist-purple-200: #B6A5B3;
+  --antichrist-purple-300: #927690;
+  --antichrist-purple-400: #6F4570;
+  --antichrist-purple-500: #4A0E4E;
+  --antichrist-purple-600: #410945;
+  --antichrist-purple-700: #350937;
+  --antichrist-purple-800: #280929;
+  --antichrist-purple-900: #1C081C;
+  --antichrist-purple-950: #120710;
+  --antichrist-purple: #4A0E4E;
+  --antichrist-purple-gradient: linear-gradient(90deg, var(--antichrist-purple-50), var(--antichrist-purple-100), var(--antichrist-purple-200), var(--antichrist-purple-300), var(--antichrist-purple-400), var(--antichrist-purple-500), var(--antichrist-purple-600), var(--antichrist-purple-700), var(--antichrist-purple-800), var(--antichrist-purple-900), var(--antichrist-purple-950));
+  --antichrist-scarlet-50: #F2EBE9;
+  --antichrist-scarlet-100: #E4D4D1;
+  --antichrist-scarlet-200: #D0AEAC;
+  --antichrist-scarlet-300: #BC8281;
+  --antichrist-scarlet-400: #AB5253;
+  --antichrist-scarlet-500: #9B1B1E;
+  --antichrist-scarlet-600: #871114;
+  --antichrist-scarlet-700: #6B0F12;
+  --antichrist-scarlet-800: #4D0D10;
+  --antichrist-scarlet-900: #330B0D;
+  --antichrist-scarlet-950: #1C080B;
+  --antichrist-scarlet: #9B1B1E;
+  --antichrist-scarlet-gradient: linear-gradient(90deg, var(--antichrist-scarlet-50), var(--antichrist-scarlet-100), var(--antichrist-scarlet-200), var(--antichrist-scarlet-300), var(--antichrist-scarlet-400), var(--antichrist-scarlet-500), var(--antichrist-scarlet-600), var(--antichrist-scarlet-700), var(--antichrist-scarlet-800), var(--antichrist-scarlet-900), var(--antichrist-scarlet-950));
+  --antichrist-pearl-50: #FEFEFE;
+  --antichrist-pearl-100: #FDFDFB;
+  --antichrist-pearl-200: #FCFAF7;
+  --antichrist-pearl-300: #F9F7F2;
+  --antichrist-pearl-400: #F7F3ED;
+  --antichrist-pearl-500: #F5F0E8;
+  --antichrist-pearl-600: #CEC6C3;
+  --antichrist-pearl-700: #A79D9F;
+  --antichrist-pearl-800: #7E7178;
+  --antichrist-pearl-900: #5A4956;
+  --antichrist-pearl-950: #372435;
+  --antichrist-pearl: #F5F0E8;
+  --antichrist-pearl-gradient: linear-gradient(90deg, var(--antichrist-pearl-50), var(--antichrist-pearl-100), var(--antichrist-pearl-200), var(--antichrist-pearl-300), var(--antichrist-pearl-400), var(--antichrist-pearl-500), var(--antichrist-pearl-600), var(--antichrist-pearl-700), var(--antichrist-pearl-800), var(--antichrist-pearl-900), var(--antichrist-pearl-950));
+  --antichrist-gold-50: #F5F2EA;
+  --antichrist-gold-100: #EBE5D5;
+  --antichrist-gold-200: #DFD4B2;
+  --antichrist-gold-300: #D4C289;
+  --antichrist-gold-400: #CDB25C;
+  --antichrist-gold-500: #C9A227;
+  --antichrist-gold-600: #AF8A19;
+  --antichrist-gold-700: #896C17;
+  --antichrist-gold-800: #624D13;
+  --antichrist-gold-900: #403210;
+  --antichrist-gold-950: #21190C;
+  --antichrist-gold: #C9A227;
+  --antichrist-gold-gradient: linear-gradient(90deg, var(--antichrist-gold-50), var(--antichrist-gold-100), var(--antichrist-gold-200), var(--antichrist-gold-300), var(--antichrist-gold-400), var(--antichrist-gold-500), var(--antichrist-gold-600), var(--antichrist-gold-700), var(--antichrist-gold-800), var(--antichrist-gold-900), var(--antichrist-gold-950));
+  --antichrist-ink-50: #EEE8E5;
+  --antichrist-ink-100: #D5CBCD;
+  --antichrist-ink-200: #AFA0A9;
+  --antichrist-ink-300: #857081;
+  --antichrist-ink-400: #5B4059;
+  --antichrist-ink-500: #140A12;
+  --antichrist-ink-600: #120910;
+  --antichrist-ink-700: #10090E;
+  --antichrist-ink-800: #0E080C;
+  --antichrist-ink-900: #0D070B;
+  --antichrist-ink-950: #0B0609;
+  --antichrist-ink: #140A12;
+  --antichrist-ink-gradient: linear-gradient(90deg, var(--antichrist-ink-50), var(--antichrist-ink-100), var(--antichrist-ink-200), var(--antichrist-ink-300), var(--antichrist-ink-400), var(--antichrist-ink-500), var(--antichrist-ink-600), var(--antichrist-ink-700), var(--antichrist-ink-800), var(--antichrist-ink-900), var(--antichrist-ink-950));
+}
+
+.bg-antichrist-purple-gradient { background: var(--antichrist-purple-gradient); }
+.bg-antichrist-purple-fade { background: linear-gradient(180deg, var(--antichrist-purple-50), var(--antichrist-purple-500), var(--antichrist-purple-950)); }
+.bg-antichrist-scarlet-gradient { background: var(--antichrist-scarlet-gradient); }
+.bg-antichrist-scarlet-fade { background: linear-gradient(180deg, var(--antichrist-scarlet-50), var(--antichrist-scarlet-500), var(--antichrist-scarlet-950)); }
+.bg-antichrist-pearl-gradient { background: var(--antichrist-pearl-gradient); }
+.bg-antichrist-pearl-fade { background: linear-gradient(180deg, var(--antichrist-pearl-50), var(--antichrist-pearl-500), var(--antichrist-pearl-950)); }
+.bg-antichrist-gold-gradient { background: var(--antichrist-gold-gradient); }
+.bg-antichrist-gold-fade { background: linear-gradient(180deg, var(--antichrist-gold-50), var(--antichrist-gold-500), var(--antichrist-gold-950)); }
+.bg-antichrist-ink-gradient { background: var(--antichrist-ink-gradient); }
+.bg-antichrist-ink-fade { background: linear-gradient(180deg, var(--antichrist-ink-50), var(--antichrist-ink-500), var(--antichrist-ink-950)); }
