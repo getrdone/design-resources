@@ -1,12 +1,13 @@
-# Materials — beast-mark-imperial
-Mood: corrupted imperial occult authority; deep royal purple, tarnished gold, obsidian — NO scarlet brand.
+﻿# Materials — beast-mark-imperial
+Mood: corrupted imperial occult authority; royal purple + tarnished gold + obsidian. NO scarlet brand.
 Surfaces:
-- deep royal-purple crushed velvet / ceremonial silk
-- tarnished gold leaf / dulled gilt filigree
-- obsidian polished stone / lacquer
-- occult-plum incense smoke haze
-- aged-bronze hardware / relic fittings
-- relic-ivory vellum accents (not pearl-scarlet pair)
-Avoid: scarlet, blood-flame, warning red, cyan neon, clinical gray as brand cores (differentiate from antichrist and techno)
-Recreate prompt seed: royal purple velvet, tarnished gold crest, obsidian ground, occult plum haze; beast-mark-imperial; no scarlet; no people; no cyan
+- deep royal-purple crushed velvet
+- occult-plum ceremonial silk folds
+- tarnished gold leaf flakes (aged, not bright new)
+- polished obsidian stone / lacquer ground
+- aged-bronze fittings
+- relic-ivory vellum accent
+Light: chiaroscuro; gold catches edges only.
+Hard rejects: scarlet/blood-flame; cyan neon; people; text; collage boards.
+Recreate prompt seed: royal purple velvet, plum silk, tarnished gold leaf, obsidian ground, aged bronze, relic ivory; beast-mark-imperial; no scarlet; no people/text/collage. Reference first-batch antichrist materials mood.
 Canonical ref image: materials/beast-mark-imperial--materials-mood--01.png
