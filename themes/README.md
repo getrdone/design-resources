@@ -48,5 +48,6 @@ Use these when regenerating texture style or matching material language across a
 This pack lives in the private `design-resources` repo. Do not publish assets publicly without clearance.
 
 ## Gallery
-Browse all materials mood boards in one place: repo-root `materials/` (flat PNGs + per-theme subfolders).
+Browse all materials mood boards in one place: repo-root `# materials/` (sorts first; flat PNGs + per-theme subfolders).
+**Always** add `{theme}--materials-mood--01.png` there when creating or importing a new theme.
 
