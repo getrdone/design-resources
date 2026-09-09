@@ -1,0 +1,56 @@
+{
+  "image": "bright-jewel--jewel-burst--31.jpg",
+  "theme": "bright-jewel",
+  "colors": [
+    {
+      "hex": "#0b1a10",
+      "rgb": [
+        11,
+        26,
+        16
+      ],
+      "share": 0.1364,
+      "role": "background"
+    },
+    {
+      "hex": "#256511",
+      "rgb": [
+        37,
+        101,
+        17
+      ],
+      "share": 0.1714,
+      "role": "primary"
+    },
+    {
+      "hex": "#649151",
+      "rgb": [
+        100,
+        145,
+        81
+      ],
+      "share": 0.1257,
+      "role": "accent"
+    },
+    {
+      "hex": "#99d03f",
+      "rgb": [
+        153,
+        208,
+        63
+      ],
+      "share": 0.1274,
+      "role": "highlight"
+    },
+    {
+      "hex": "#1d2f27",
+      "rgb": [
+        29,
+        47,
+        39
+      ],
+      "share": 0.1198,
+      "role": "ink"
+    }
+  ]
+}

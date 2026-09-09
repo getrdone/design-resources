@@ -1,15 +1,15 @@
 /* Theme: cosmic-aurora */
 :root {
-  --theme-background: #000000;
-  --theme-background-rgb: 0, 0, 0;
-  --theme-primary: #00050b;
-  --theme-primary-rgb: 0, 5, 11;
-  --theme-accent: #130c1d;
-  --theme-accent-rgb: 19, 12, 29;
-  --theme-highlight: #91a096;
-  --theme-highlight-rgb: 145, 160, 150;
-  --theme-muted: #32393e;
-  --theme-muted-rgb: 50, 57, 62;
-  --theme-ink: #000001;
-  --theme-ink-rgb: 0, 0, 1;
+  --theme-background: #070b16;
+  --theme-background-rgb: 7, 11, 22;
+  --theme-primary: #1c4b5e;
+  --theme-primary-rgb: 28, 75, 94;
+  --theme-accent: #192938;
+  --theme-accent-rgb: 25, 41, 56;
+  --theme-highlight: #577574;
+  --theme-highlight-rgb: 87, 117, 116;
+  --theme-muted: #4e5352;
+  --theme-muted-rgb: 78, 83, 82;
+  --theme-ink: #0b283b;
+  --theme-ink-rgb: 11, 40, 59;
 }

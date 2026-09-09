@@ -1,0 +1,56 @@
+{
+  "image": "autumn-earth--harvest-ember--21.jpg",
+  "theme": "autumn-earth",
+  "colors": [
+    {
+      "hex": "#070807",
+      "rgb": [
+        7,
+        8,
+        7
+      ],
+      "share": 0.1653,
+      "role": "background"
+    },
+    {
+      "hex": "#3a3125",
+      "rgb": [
+        58,
+        49,
+        37
+      ],
+      "share": 0.1378,
+      "role": "primary"
+    },
+    {
+      "hex": "#242320",
+      "rgb": [
+        36,
+        35,
+        32
+      ],
+      "share": 0.1232,
+      "role": "accent"
+    },
+    {
+      "hex": "#cfa643",
+      "rgb": [
+        207,
+        166,
+        67
+      ],
+      "share": 0.1168,
+      "role": "highlight"
+    },
+    {
+      "hex": "#19130f",
+      "rgb": [
+        25,
+        19,
+        15
+      ],
+      "share": 0.1252,
+      "role": "ink"
+    }
+  ]
+}

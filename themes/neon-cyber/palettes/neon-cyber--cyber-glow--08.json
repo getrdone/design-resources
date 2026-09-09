@@ -1,0 +1,56 @@
+{
+  "image": "neon-cyber--cyber-glow--08.jpg",
+  "theme": "neon-cyber",
+  "colors": [
+    {
+      "hex": "#000000",
+      "rgb": [
+        0,
+        0,
+        0
+      ],
+      "share": 0.177,
+      "role": "background"
+    },
+    {
+      "hex": "#6e6767",
+      "rgb": [
+        110,
+        103,
+        103
+      ],
+      "share": 0.1573,
+      "role": "primary"
+    },
+    {
+      "hex": "#d5712c",
+      "rgb": [
+        213,
+        113,
+        44
+      ],
+      "share": 0.1527,
+      "role": "accent"
+    },
+    {
+      "hex": "#a7acb0",
+      "rgb": [
+        167,
+        172,
+        176
+      ],
+      "share": 0.1464,
+      "role": "highlight"
+    },
+    {
+      "hex": "#363030",
+      "rgb": [
+        54,
+        48,
+        48
+      ],
+      "share": 0.1587,
+      "role": "ink"
+    }
+  ]
+}

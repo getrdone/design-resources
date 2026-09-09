@@ -1,0 +1,56 @@
+{
+  "image": "lux-red--burgundy-night--17.jpg",
+  "theme": "lux-red",
+  "colors": [
+    {
+      "hex": "#0d1013",
+      "rgb": [
+        13,
+        16,
+        19
+      ],
+      "share": 0.1145,
+      "role": "background"
+    },
+    {
+      "hex": "#1e1f23",
+      "rgb": [
+        30,
+        31,
+        35
+      ],
+      "share": 0.2007,
+      "role": "primary"
+    },
+    {
+      "hex": "#544346",
+      "rgb": [
+        84,
+        67,
+        70
+      ],
+      "share": 0.1258,
+      "role": "accent"
+    },
+    {
+      "hex": "#7d7e83",
+      "rgb": [
+        125,
+        126,
+        131
+      ],
+      "share": 0.1043,
+      "role": "highlight"
+    },
+    {
+      "hex": "#100f12",
+      "rgb": [
+        16,
+        15,
+        18
+      ],
+      "share": 0.2071,
+      "role": "ink"
+    }
+  ]
+}

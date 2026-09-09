@@ -1,0 +1,56 @@
+{
+  "image": "spectrum--reference--02.jpg",
+  "theme": "spectrum",
+  "colors": [
+    {
+      "hex": "#010108",
+      "rgb": [
+        1,
+        1,
+        8
+      ],
+      "share": 0.1173,
+      "role": "background"
+    },
+    {
+      "hex": "#0b0d1b",
+      "rgb": [
+        11,
+        13,
+        27
+      ],
+      "share": 0.2561,
+      "role": "primary"
+    },
+    {
+      "hex": "#0a0311",
+      "rgb": [
+        10,
+        3,
+        17
+      ],
+      "share": 0.131,
+      "role": "accent"
+    },
+    {
+      "hex": "#670d39",
+      "rgb": [
+        103,
+        13,
+        57
+      ],
+      "share": 0.142,
+      "role": "highlight"
+    },
+    {
+      "hex": "#01030c",
+      "rgb": [
+        1,
+        3,
+        12
+      ],
+      "share": 0.1527,
+      "role": "ink"
+    }
+  ]
+}

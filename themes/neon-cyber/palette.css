@@ -1,0 +1,15 @@
+/* Theme: neon-cyber */
+:root {
+  --theme-background: #060219;
+  --theme-background-rgb: 6, 2, 25;
+  --theme-primary: #234a62;
+  --theme-primary-rgb: 35, 74, 98;
+  --theme-accent: #cd122e;
+  --theme-accent-rgb: 205, 18, 46;
+  --theme-highlight: #90ca70;
+  --theme-highlight-rgb: 144, 202, 112;
+  --theme-muted: #401c4e;
+  --theme-muted-rgb: 64, 28, 78;
+  --theme-ink: #171c30;
+  --theme-ink-rgb: 23, 28, 48;
+}

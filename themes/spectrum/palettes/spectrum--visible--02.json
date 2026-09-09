@@ -1,0 +1,56 @@
+{
+  "image": "spectrum--visible--02.png",
+  "theme": "spectrum",
+  "colors": [
+    {
+      "hex": "#0e13ff",
+      "rgb": [
+        14,
+        19,
+        255
+      ],
+      "share": 0.2313,
+      "role": "background"
+    },
+    {
+      "hex": "#d1fb00",
+      "rgb": [
+        209,
+        251,
+        0
+      ],
+      "share": 0.2375,
+      "role": "primary"
+    },
+    {
+      "hex": "#00ff46",
+      "rgb": [
+        0,
+        255,
+        70
+      ],
+      "share": 0.125,
+      "role": "accent"
+    },
+    {
+      "hex": "#00fad5",
+      "rgb": [
+        0,
+        250,
+        213
+      ],
+      "share": 0.2,
+      "role": "highlight"
+    },
+    {
+      "hex": "#45ff00",
+      "rgb": [
+        69,
+        255,
+        0
+      ],
+      "share": 0.1187,
+      "role": "ink"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "image": "blue-marble--slate-teal--19.jpg",
+  "theme": "blue-marble",
+  "colors": [
+    {
+      "hex": "#0a4262",
+      "rgb": [
+        10,
+        66,
+        98
+      ],
+      "share": 0.1716,
+      "role": "background"
+    },
+    {
+      "hex": "#2880a1",
+      "rgb": [
+        40,
+        128,
+        161
+      ],
+      "share": 0.1273,
+      "role": "primary"
+    },
+    {
+      "hex": "#509abe",
+      "rgb": [
+        80,
+        154,
+        190
+      ],
+      "share": 0.1255,
+      "role": "accent"
+    },
+    {
+      "hex": "#85cbe6",
+      "rgb": [
+        133,
+        203,
+        230
+      ],
+      "share": 0.1304,
+      "role": "highlight"
+    },
+    {
+      "hex": "#055e8d",
+      "rgb": [
+        5,
+        94,
+        141
+      ],
+      "share": 0.1286,
+      "role": "ink"
+    }
+  ]
+}

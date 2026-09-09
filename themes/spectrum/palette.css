@@ -1,20 +1,15 @@
+/* Theme: spectrum */
 :root {
-  --spec-uv-1: #2e1065;
-  --spec-uv-2: #7c3aed;
-  --spec-uv-3: #c084fc;
-  --spec-vis-r: #ff0000;
-  --spec-vis-o: #ff7f00;
-  --spec-vis-y: #ffff00;
-  --spec-vis-g: #00ff00;
-  --spec-vis-b: #0000ff;
-  --spec-vis-i: #4b0082;
-  --spec-vis-v: #9400d3;
-  --spec-ir-1: #8b0000;
-  --spec-ir-2: #ff4500;
-  --spec-ir-3: #ffd27f;
+  --theme-background: #09061c;
+  --theme-background-rgb: 9, 6, 28;
+  --theme-primary: #955d7e;
+  --theme-primary-rgb: 149, 93, 126;
+  --theme-accent: #c1b575;
+  --theme-accent-rgb: 193, 181, 117;
+  --theme-highlight: #fffef7;
+  --theme-highlight-rgb: 255, 254, 247;
+  --theme-muted: #391754;
+  --theme-muted-rgb: 57, 23, 84;
+  --theme-ink: #0f1423;
+  --theme-ink-rgb: 15, 20, 35;
 }
-
-.spectrum-visible { background: linear-gradient(90deg, #ff0000, #ff7f00, #ffff00, #00ff00, #0000ff, #4b0082, #9400d3); }
-.spectrum-ultraviolet { background: linear-gradient(90deg, #2e1065, #5b21b6, #7c3aed, #c084fc); }
-.spectrum-infrared { background: linear-gradient(90deg, #140000, #8b0000, #ff4500, #ffd27f, #fff5e6); }
-.spectrum-full-em { background: linear-gradient(90deg, #2e1065 0%, #7c3aed 28%, #ff0000 34%, #ffff00 50%, #0000ff 66%, #9400d3 72%, #8b0000 78%, #ffd27f 100%); }

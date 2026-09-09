@@ -1,15 +1,15 @@
 /* Theme: royal-amethyst */
 :root {
-  --theme-background: #020103;
-  --theme-background-rgb: 2, 1, 3;
-  --theme-primary: #5c1a3c;
-  --theme-primary-rgb: 92, 26, 60;
-  --theme-accent: #694669;
-  --theme-accent-rgb: 105, 70, 105;
-  --theme-highlight: #c8aa99;
-  --theme-highlight-rgb: 200, 170, 153;
-  --theme-muted: #98778c;
-  --theme-muted-rgb: 152, 119, 140;
-  --theme-ink: #1f0f29;
-  --theme-ink-rgb: 31, 15, 41;
+  --theme-background: #0d0316;
+  --theme-background-rgb: 13, 3, 22;
+  --theme-primary: #94758f;
+  --theme-primary-rgb: 148, 117, 143;
+  --theme-accent: #3c3f67;
+  --theme-accent-rgb: 60, 63, 103;
+  --theme-highlight: #c3ada6;
+  --theme-highlight-rgb: 195, 173, 166;
+  --theme-muted: #884979;
+  --theme-muted-rgb: 136, 73, 121;
+  --theme-ink: #2d143d;
+  --theme-ink-rgb: 45, 20, 61;
 }

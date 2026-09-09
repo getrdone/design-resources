@@ -1,15 +1,15 @@
 /* Theme: zen-mist */
 :root {
-  --theme-background: #120f12;
-  --theme-background-rgb: 18, 15, 18;
-  --theme-primary: #8d6f74;
-  --theme-primary-rgb: 141, 111, 116;
-  --theme-accent: #afc2bd;
-  --theme-accent-rgb: 175, 194, 189;
-  --theme-highlight: #dad7d9;
-  --theme-highlight-rgb: 218, 215, 217;
-  --theme-muted: #989b9a;
-  --theme-muted-rgb: 152, 155, 154;
-  --theme-ink: #46605d;
-  --theme-ink-rgb: 70, 96, 93;
+  --theme-background: #19252b;
+  --theme-background-rgb: 25, 37, 43;
+  --theme-primary: #c9b8ba;
+  --theme-primary-rgb: 201, 184, 186;
+  --theme-accent: #909a97;
+  --theme-accent-rgb: 144, 154, 151;
+  --theme-highlight: #dde1e5;
+  --theme-highlight-rgb: 221, 225, 229;
+  --theme-muted: #9b7a81;
+  --theme-muted-rgb: 155, 122, 129;
+  --theme-ink: #57716a;
+  --theme-ink-rgb: 87, 113, 106;
 }

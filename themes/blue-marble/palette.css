@@ -1,15 +1,15 @@
 /* Theme: blue-marble */
 :root {
-  --theme-background: #031026;
-  --theme-background-rgb: 3, 16, 38;
-  --theme-primary: #105b8c;
-  --theme-primary-rgb: 16, 91, 140;
-  --theme-accent: #518a9d;
-  --theme-accent-rgb: 81, 138, 157;
-  --theme-highlight: #95c4cb;
-  --theme-highlight-rgb: 149, 196, 203;
-  --theme-muted: #535d6b;
-  --theme-muted-rgb: 83, 93, 107;
-  --theme-ink: #1d273c;
-  --theme-ink-rgb: 29, 39, 60;
+  --theme-background: #04081b;
+  --theme-background-rgb: 4, 8, 27;
+  --theme-primary: #0c5899;
+  --theme-primary-rgb: 12, 88, 153;
+  --theme-accent: #5692ae;
+  --theme-accent-rgb: 86, 146, 174;
+  --theme-highlight: #aecfd4;
+  --theme-highlight-rgb: 174, 207, 212;
+  --theme-muted: #535b71;
+  --theme-muted-rgb: 83, 91, 113;
+  --theme-ink: #05285f;
+  --theme-ink-rgb: 5, 40, 95;
 }

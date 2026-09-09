@@ -1,0 +1,56 @@
+{
+  "image": "cosmic-aurora--nebula--05.jpg",
+  "theme": "cosmic-aurora",
+  "colors": [
+    {
+      "hex": "#132431",
+      "rgb": [
+        19,
+        36,
+        49
+      ],
+      "share": 0.1266,
+      "role": "background"
+    },
+    {
+      "hex": "#304d5b",
+      "rgb": [
+        48,
+        77,
+        91
+      ],
+      "share": 0.143,
+      "role": "primary"
+    },
+    {
+      "hex": "#1f3745",
+      "rgb": [
+        31,
+        55,
+        69
+      ],
+      "share": 0.1318,
+      "role": "accent"
+    },
+    {
+      "hex": "#415f6d",
+      "rgb": [
+        65,
+        95,
+        109
+      ],
+      "share": 0.135,
+      "role": "highlight"
+    },
+    {
+      "hex": "#192e3c",
+      "rgb": [
+        25,
+        46,
+        60
+      ],
+      "share": 0.1291,
+      "role": "ink"
+    }
+  ]
+}

@@ -1,15 +1,15 @@
 /* Theme: autumn-earth */
 :root {
-  --theme-background: #14110f;
-  --theme-background-rgb: 20, 17, 15;
-  --theme-primary: #a76632;
-  --theme-primary-rgb: 167, 102, 50;
-  --theme-accent: #ad8956;
-  --theme-accent-rgb: 173, 137, 86;
-  --theme-highlight: #d0b782;
-  --theme-highlight-rgb: 208, 183, 130;
-  --theme-muted: #6a5f47;
-  --theme-muted-rgb: 106, 95, 71;
-  --theme-ink: #693921;
-  --theme-ink-rgb: 105, 57, 33;
+  --theme-background: #100907;
+  --theme-background-rgb: 16, 9, 7;
+  --theme-primary: #bc712b;
+  --theme-primary-rgb: 188, 113, 43;
+  --theme-accent: #766749;
+  --theme-accent-rgb: 118, 103, 73;
+  --theme-highlight: #c19859;
+  --theme-highlight-rgb: 193, 152, 89;
+  --theme-muted: #883713;
+  --theme-muted-rgb: 136, 55, 19;
+  --theme-ink: #4a3122;
+  --theme-ink-rgb: 74, 49, 34;
 }

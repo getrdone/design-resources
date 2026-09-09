@@ -1,0 +1,56 @@
+{
+  "image": "neon-cyber--night-grid--02.jpg",
+  "theme": "neon-cyber",
+  "colors": [
+    {
+      "hex": "#0d0d0e",
+      "rgb": [
+        13,
+        13,
+        14
+      ],
+      "share": 0.1315,
+      "role": "background"
+    },
+    {
+      "hex": "#1f2124",
+      "rgb": [
+        31,
+        33,
+        36
+      ],
+      "share": 0.2484,
+      "role": "primary"
+    },
+    {
+      "hex": "#7e3f6e",
+      "rgb": [
+        126,
+        63,
+        110
+      ],
+      "share": 0.1325,
+      "role": "accent"
+    },
+    {
+      "hex": "#87c48a",
+      "rgb": [
+        135,
+        196,
+        138
+      ],
+      "share": 0.1095,
+      "role": "highlight"
+    },
+    {
+      "hex": "#18181a",
+      "rgb": [
+        24,
+        24,
+        26
+      ],
+      "share": 0.2148,
+      "role": "ink"
+    }
+  ]
+}

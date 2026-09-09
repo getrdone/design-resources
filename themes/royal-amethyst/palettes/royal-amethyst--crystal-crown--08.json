@@ -1,0 +1,56 @@
+{
+  "image": "royal-amethyst--crystal-crown--08.jpg",
+  "theme": "royal-amethyst",
+  "colors": [
+    {
+      "hex": "#08060a",
+      "rgb": [
+        8,
+        6,
+        10
+      ],
+      "share": 0.1244,
+      "role": "background"
+    },
+    {
+      "hex": "#141017",
+      "rgb": [
+        20,
+        16,
+        23
+      ],
+      "share": 0.1631,
+      "role": "primary"
+    },
+    {
+      "hex": "#1f2933",
+      "rgb": [
+        31,
+        41,
+        51
+      ],
+      "share": 0.1514,
+      "role": "accent"
+    },
+    {
+      "hex": "#4d4c5b",
+      "rgb": [
+        77,
+        76,
+        91
+      ],
+      "share": 0.1339,
+      "role": "highlight"
+    },
+    {
+      "hex": "#0c0e14",
+      "rgb": [
+        12,
+        14,
+        20
+      ],
+      "share": 0.1187,
+      "role": "ink"
+    }
+  ]
+}

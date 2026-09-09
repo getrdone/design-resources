@@ -1,56 +1,121 @@
 {
-  "image": "palette.png",
   "theme": "royal-amethyst",
   "colors": [
     {
-      "role": "background",
-      "hex": "#180f25",
+      "hex": "#0d0316",
       "rgb": [
-        24,
-        15,
-        37
+        13,
+        3,
+        22
       ],
-      "share": 0.1656
+      "share": 0.1596,
+      "role": "background"
     },
     {
-      "role": "primary",
-      "hex": "#945c7e",
+      "hex": "#94758f",
       "rgb": [
         148,
-        92,
-        126
+        117,
+        143
       ],
-      "share": 0.1719
+      "share": 0.1353,
+      "role": "primary"
     },
     {
-      "role": "accent",
-      "hex": "#a58391",
+      "hex": "#3c3f67",
       "rgb": [
-        165,
-        131,
-        145
+        60,
+        63,
+        103
       ],
-      "share": 0.1656
+      "share": 0.1318,
+      "role": "accent"
     },
     {
-      "role": "highlight",
-      "hex": "#d0b19a",
+      "hex": "#c3ada6",
       "rgb": [
-        208,
-        177,
-        154
+        195,
+        173,
+        166
       ],
-      "share": 0.1656
+      "share": 0.1213,
+      "role": "highlight"
     },
     {
-      "role": "ink",
-      "hex": "#5c385c",
+      "hex": "#884979",
       "rgb": [
-        92,
-        56,
-        92
+        136,
+        73,
+        121
       ],
-      "share": 0.3312
+      "share": 0.1219,
+      "role": "muted"
+    },
+    {
+      "hex": "#2d143d",
+      "rgb": [
+        45,
+        20,
+        61
+      ],
+      "share": 0.1569,
+      "role": "ink"
+    }
+  ],
+  "raw": [
+    {
+      "hex": "#0d0316",
+      "rgb": [
+        13,
+        3,
+        22
+      ],
+      "share": 0.1596
+    },
+    {
+      "hex": "#2d143d",
+      "rgb": [
+        45,
+        20,
+        61
+      ],
+      "share": 0.1569
+    },
+    {
+      "hex": "#94758f",
+      "rgb": [
+        148,
+        117,
+        143
+      ],
+      "share": 0.1353
+    },
+    {
+      "hex": "#3c3f67",
+      "rgb": [
+        60,
+        63,
+        103
+      ],
+      "share": 0.1318
+    },
+    {
+      "hex": "#884979",
+      "rgb": [
+        136,
+        73,
+        121
+      ],
+      "share": 0.1219
+    },
+    {
+      "hex": "#c3ada6",
+      "rgb": [
+        195,
+        173,
+        166
+      ],
+      "share": 0.1213
     }
   ]
 }

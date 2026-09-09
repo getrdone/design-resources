@@ -1,0 +1,56 @@
+{
+  "image": "spectrum--infrared--01.png",
+  "theme": "spectrum",
+  "colors": [
+    {
+      "hex": "#b72316",
+      "rgb": [
+        183,
+        35,
+        22
+      ],
+      "share": 0.0896,
+      "role": "background"
+    },
+    {
+      "hex": "#f8f8f5",
+      "rgb": [
+        248,
+        248,
+        245
+      ],
+      "share": 0.0703,
+      "role": "primary"
+    },
+    {
+      "hex": "#e4d196",
+      "rgb": [
+        228,
+        209,
+        150
+      ],
+      "share": 0.0689,
+      "role": "accent"
+    },
+    {
+      "hex": "#ffffff",
+      "rgb": [
+        255,
+        255,
+        255
+      ],
+      "share": 0.6096,
+      "role": "highlight"
+    },
+    {
+      "hex": "#cb9055",
+      "rgb": [
+        203,
+        144,
+        85
+      ],
+      "share": 0.0989,
+      "role": "ink"
+    }
+  ]
+}

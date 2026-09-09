@@ -1,0 +1,56 @@
+{
+  "image": "neon-cyber--electric-neon--01.jpg",
+  "theme": "neon-cyber",
+  "colors": [
+    {
+      "hex": "#1e2450",
+      "rgb": [
+        30,
+        36,
+        80
+      ],
+      "share": 0.1669,
+      "role": "background"
+    },
+    {
+      "hex": "#436fb2",
+      "rgb": [
+        67,
+        111,
+        178
+      ],
+      "share": 0.1363,
+      "role": "primary"
+    },
+    {
+      "hex": "#6d4c94",
+      "rgb": [
+        109,
+        76,
+        148
+      ],
+      "share": 0.1327,
+      "role": "accent"
+    },
+    {
+      "hex": "#6fa5e6",
+      "rgb": [
+        111,
+        165,
+        230
+      ],
+      "share": 0.131,
+      "role": "highlight"
+    },
+    {
+      "hex": "#173868",
+      "rgb": [
+        23,
+        56,
+        104
+      ],
+      "share": 0.1802,
+      "role": "ink"
+    }
+  ]
+}

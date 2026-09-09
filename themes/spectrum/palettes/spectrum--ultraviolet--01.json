@@ -1,0 +1,56 @@
+{
+  "image": "spectrum--ultraviolet--01.png",
+  "theme": "spectrum",
+  "colors": [
+    {
+      "hex": "#0d1019",
+      "rgb": [
+        13,
+        16,
+        25
+      ],
+      "share": 0.315,
+      "role": "background"
+    },
+    {
+      "hex": "#0f111b",
+      "rgb": [
+        15,
+        17,
+        27
+      ],
+      "share": 0.1011,
+      "role": "primary"
+    },
+    {
+      "hex": "#502283",
+      "rgb": [
+        80,
+        34,
+        131
+      ],
+      "share": 0.0895,
+      "role": "accent"
+    },
+    {
+      "hex": "#8755af",
+      "rgb": [
+        135,
+        85,
+        175
+      ],
+      "share": 0.1538,
+      "role": "highlight"
+    },
+    {
+      "hex": "#0e101a",
+      "rgb": [
+        14,
+        16,
+        26
+      ],
+      "share": 0.2654,
+      "role": "ink"
+    }
+  ]
+}

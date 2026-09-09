@@ -1,0 +1,56 @@
+{
+  "image": "royal-amethyst--amethyst-glow--07.jpg",
+  "theme": "royal-amethyst",
+  "colors": [
+    {
+      "hex": "#1d0224",
+      "rgb": [
+        29,
+        2,
+        36
+      ],
+      "share": 0.1522,
+      "role": "background"
+    },
+    {
+      "hex": "#112480",
+      "rgb": [
+        17,
+        36,
+        128
+      ],
+      "share": 0.1477,
+      "role": "primary"
+    },
+    {
+      "hex": "#310751",
+      "rgb": [
+        49,
+        7,
+        81
+      ],
+      "share": 0.1296,
+      "role": "accent"
+    },
+    {
+      "hex": "#5c43bf",
+      "rgb": [
+        92,
+        67,
+        191
+      ],
+      "share": 0.1232,
+      "role": "highlight"
+    },
+    {
+      "hex": "#1f0959",
+      "rgb": [
+        31,
+        9,
+        89
+      ],
+      "share": 0.1155,
+      "role": "ink"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "image": "neon-cyber--magenta-cyan--04.jpg",
+  "theme": "neon-cyber",
+  "colors": [
+    {
+      "hex": "#151518",
+      "rgb": [
+        21,
+        21,
+        24
+      ],
+      "share": 0.1912,
+      "role": "background"
+    },
+    {
+      "hex": "#26252a",
+      "rgb": [
+        38,
+        37,
+        42
+      ],
+      "share": 0.1431,
+      "role": "primary"
+    },
+    {
+      "hex": "#c703c4",
+      "rgb": [
+        199,
+        3,
+        196
+      ],
+      "share": 0.1292,
+      "role": "accent"
+    },
+    {
+      "hex": "#34ceaa",
+      "rgb": [
+        52,
+        206,
+        170
+      ],
+      "share": 0.1325,
+      "role": "highlight"
+    },
+    {
+      "hex": "#1d1f21",
+      "rgb": [
+        29,
+        31,
+        33
+      ],
+      "share": 0.201,
+      "role": "ink"
+    }
+  ]
+}
