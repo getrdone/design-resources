@@ -1,0 +1,15 @@
+/* Theme: beast-mark-imperial — royal purple / tarnished gold / obsidian — corrupted imperial occult authority (NO scarlet brand) */
+:root {
+  --theme-purple: #3B0A54;
+  --theme-purple-rgb: 59, 10, 84;
+  --theme-plum: #5B2C6F;
+  --theme-plum-rgb: 91, 44, 111;
+  --theme-gold: #B89B5E;
+  --theme-gold-rgb: 184, 155, 94;
+  --theme-bronze: #6E5A35;
+  --theme-bronze-rgb: 110, 90, 53;
+  --theme-obsidian: #0A0A0C;
+  --theme-obsidian-rgb: 10, 10, 12;
+  --theme-ivory: #E8DFD0;
+  --theme-ivory-rgb: 232, 223, 208;
+}

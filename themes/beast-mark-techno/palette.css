@@ -1,0 +1,15 @@
+/* Theme: beast-mark-techno — neon green / electric cyan / stark white / matte gray — cold clinical technocratic control */
+:root {
+  --theme-neon: #7CFF2A;
+  --theme-neon-rgb: 124, 255, 42;
+  --theme-cyan: #00E5FF;
+  --theme-cyan-rgb: 0, 229, 255;
+  --theme-white: #F5F7FA;
+  --theme-white-rgb: 245, 247, 250;
+  --theme-gray: #8B939E;
+  --theme-gray-rgb: 139, 147, 158;
+  --theme-slate: #3A424E;
+  --theme-slate-rgb: 58, 66, 78;
+  --theme-void: #0B1220;
+  --theme-void-rgb: 11, 18, 32;
+}

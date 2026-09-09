@@ -1,0 +1,73 @@
+{
+  "theme": "beast-mark-imperial",
+  "brief": "royal purple / tarnished gold / obsidian \u2014 corrupted imperial occult authority (NO scarlet brand)",
+  "colors": [
+    {
+      "role": "purple",
+      "name": "royal-purple",
+      "hex": "#3B0A54",
+      "rgb": [
+        59,
+        10,
+        84
+      ]
+    },
+    {
+      "role": "plum",
+      "name": "occult-plum",
+      "hex": "#5B2C6F",
+      "rgb": [
+        91,
+        44,
+        111
+      ]
+    },
+    {
+      "role": "gold",
+      "name": "tarnished-gold",
+      "hex": "#B89B5E",
+      "rgb": [
+        184,
+        155,
+        94
+      ]
+    },
+    {
+      "role": "bronze",
+      "name": "aged-bronze",
+      "hex": "#6E5A35",
+      "rgb": [
+        110,
+        90,
+        53
+      ]
+    },
+    {
+      "role": "obsidian",
+      "name": "obsidian-black",
+      "hex": "#0A0A0C",
+      "rgb": [
+        10,
+        10,
+        12
+      ]
+    },
+    {
+      "role": "ivory",
+      "name": "relic-ivory",
+      "hex": "#E8DFD0",
+      "rgb": [
+        232,
+        223,
+        208
+      ]
+    }
+  ],
+  "reference_count": 2,
+  "references": [
+    "beast-mark-imperial--prophecy-split--01.jpg",
+    "beast-mark-imperial--gilt-authority--02.jpg"
+  ],
+  "source_album": "mark-of-the-beast",
+  "notes": "Derived from Mark of the Beast source refs as color boards; not a fiery/scarlet pack."
+}

@@ -1,0 +1,72 @@
+{
+  "theme": "beast-mark-techno",
+  "brief": "neon green / electric cyan / stark white / matte gray \u2014 cold clinical technocratic control",
+  "colors": [
+    {
+      "role": "neon",
+      "name": "neon-green",
+      "hex": "#7CFF2A",
+      "rgb": [
+        124,
+        255,
+        42
+      ]
+    },
+    {
+      "role": "cyan",
+      "name": "electric-cyan",
+      "hex": "#00E5FF",
+      "rgb": [
+        0,
+        229,
+        255
+      ]
+    },
+    {
+      "role": "white",
+      "name": "stark-white",
+      "hex": "#F5F7FA",
+      "rgb": [
+        245,
+        247,
+        250
+      ]
+    },
+    {
+      "role": "gray",
+      "name": "matte-gray",
+      "hex": "#8B939E",
+      "rgb": [
+        139,
+        147,
+        158
+      ]
+    },
+    {
+      "role": "slate",
+      "name": "clinic-slate",
+      "hex": "#3A424E",
+      "rgb": [
+        58,
+        66,
+        78
+      ]
+    },
+    {
+      "role": "void",
+      "name": "void-black",
+      "hex": "#0B1220",
+      "rgb": [
+        11,
+        18,
+        32
+      ]
+    }
+  ],
+  "reference_count": 1,
+  "references": [
+    "beast-mark-techno--chip-surveillance--01.jpg"
+  ],
+  "source_album": "mark-of-the-beast",
+  "notes": "Derived from Mark of the Beast source refs as color boards; not a fiery/scarlet pack."
+}

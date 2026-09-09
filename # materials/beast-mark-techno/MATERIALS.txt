@@ -1,0 +1,12 @@
+# Materials — beast-mark-techno
+Mood: artificial cold clinical control; neon green + electric cyan on void; matte gray hardware; stark white UI.
+Surfaces:
+- frosted matte-gray polymer / anodized aluminum
+- electric-cyan edge lighting / light-pipe acrylic
+- neon-green phosphor / HUD glyph glow
+- stark-white ceramic / surgical laminate
+- void-black OLED / matte sensor glass
+- clinic-slate PCB solder-mask texture
+Avoid: warm scarlet, blood crimson, molten orange, parchment browns as brand cores
+Recreate prompt seed: microchip on circuit board, biometric scan UI, neon green + electric cyan, matte gray chassis, stark white glyphs on void; beast-mark-techno; cold clinical; no people faces; no scarlet
+Canonical ref image: materials/beast-mark-techno--materials-mood--01.png
