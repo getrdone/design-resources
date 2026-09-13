@@ -49,11 +49,9 @@ cd /mnt/f/__ai-projects/design-resources && git add -A && git commit && git push
 
 | Folder | Role |
 |--------|------|
-| `themes/` | Idea-generation color-scheme libraries (source: `C:\Users\vapor\Pictures\color-scheme-images`) |
+| `idea-generators/` | Idea-generation color-scheme libraries (source: `C:\Users\vapor\Pictures\color-scheme-images`) |
 | `color-themes/` | Named, expanding theme systems (briefs, locked roles, gradients) |
 
-See `themes/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
+See `idea-generators/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
 
-Workspace shortcut: `F:\__ai-projects\color-themes` → junction to `design-resources\color-themes`.
-
-<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Split themes/ (ideas) from color-themes/ (named catalog). -->
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Renamed themes/ → idea-generators/; removed top-level color-themes junction. -->
