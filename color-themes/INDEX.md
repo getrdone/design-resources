@@ -14,5 +14,7 @@ Expanding catalog of intentional theme systems. Idea-generation libraries live i
 - Theme folder names are kebab-case.
 - Add new named themes here; keep mood/source libraries in `idea-generators/`.
 - Canonical path: `F:\__ai-projects\design-resources\color-themes\`.
+- Catalog hex values are extracted/source-provided anchors unless the matching `BRIEF.md` explicitly locks an official value. New or materially revised themes use `agent-skills/skills/color-palette-composition` before their canonical story names and semantic tokens are handed off through Design Directives.
 
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Companion path themes/ → idea-generators/; removed junction note. -->
+<!-- Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-09-13 | Clarified palette provenance and canonical composition routing for catalog themes. -->

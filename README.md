@@ -18,8 +18,8 @@ Paid / proprietary design packs. Do **not** make this repo public.
 ### Dynamic symmetry — quick agent rule
 
 1. Soft standard for layout, spacing, hierarchy, thumbs, heroes.  
-2. **Skim glossary:** `dynamic-symmetry-grids/GLOSSARY.md` → **symlink** into **agent-skills** (one file, one history).  
-3. Full method: `F:\__ai-projects\agent-skills\skills\curiosity-driven-scripture-journey\references\dynamic-symmetry.md`  
+2. **Skim glossary:** `dynamic-symmetry-grids/GLOSSARY.md` → **current-release pointer** into **agent-skills** (one current release, no stale duplicate).
+3. Full method: read `F:\__ai-projects\agent-skills\skills\curiosity-driven-scripture-journey\SKILL.md`, resolve `CURRENT`, then open `versions/<resolved>/references/dynamic-symmetry.md`.
 4. Prefer `US grid sizes/` or `A4 grid sizes/` → `BLACK PNG HORIZONTAL` or `VERTICAL`.  
 5. **Never** put nude/sexually explicit study images from the PDFs into any deliverable.
 
@@ -28,7 +28,7 @@ Paid / proprietary design packs. Do **not** make this repo public.
 | Content | Repo history |
 |---------|----------------|
 | PNG grids, gauges, PDFs | **this repo** (`design-resources`) |
-| Glossary text + skill method docs | **agent-skills** (GLOSSARY.md is a symlink) |
+| Glossary text + skill method docs | **agent-skills** (GLOSSARY.md is a current-release pointer) |
 
 ### Importing new files from H: (purchase archive)
 
@@ -62,3 +62,4 @@ Working library: `textures/` — kebab-case packs (bitmap textures, fabric, phot
 Do not put layout grids there — those stay in `dynamic-symmetry-grids/`. Extra Affinity grid packs (light table / extended / white background) live locally under `dynamic-symmetry-grids/extra-from-affinity/`.
 
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Added textures/ pack; extra Affinity grids stay with dynamic-symmetry-grids. -->
+<!-- Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-09-13 | Replaced stale Dynamic Symmetry symlink instructions with current-release routing. -->
