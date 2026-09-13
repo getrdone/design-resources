@@ -2,3 +2,13 @@
 Thumbs.db
 **/._*
 **/.synced-from-h.txt
+
+# Large paid texture binaries stay local (README is tracked)
+textures/**
+!textures/README.md
+!textures/**/*.md
+textures/_merge-log.txt
+
+# Extra Affinity dynamic-symmetry packs (local; canonical black-line grids stay tracked)
+dynamic-symmetry-grids/extra-from-affinity/**
+!dynamic-symmetry-grids/extra-from-affinity/README.md
