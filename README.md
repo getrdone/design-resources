@@ -13,6 +13,7 @@ Paid / proprietary design packs. Do **not** make this repo public.
 | Folder | What | Notes |
 |--------|------|--------|
 | `dynamic-symmetry-grids/` | Dynamic symmetry PNG armatures + gauges + method PDFs | **black-line PNGs** are working files |
+| `textures/` | Texture / pattern source packs (print grit, fabric, halftone, vector pattern) | Paid Vector Lab / Affinity; local binaries, README tracked |
 
 ### Dynamic symmetry — quick agent rule
 
@@ -54,4 +55,10 @@ cd /mnt/f/__ai-projects/design-resources && git add -A && git commit && git push
 
 See `idea-generators/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
 
-<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Renamed themes/ → idea-generators/; removed top-level color-themes junction. -->
+## Textures / patterns
+
+Working library: `textures/` (bitmap textures, fabric, photocopy grit, overspray, vintage print, vector pattern elements, web/background source).
+
+Do not put layout grids there — those stay in `dynamic-symmetry-grids/`. Extra Affinity grid packs (light table / extended / white background) live locally under `dynamic-symmetry-grids/extra-from-affinity/`.
+
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Added textures/ pack; extra Affinity grids stay with dynamic-symmetry-grids. -->
