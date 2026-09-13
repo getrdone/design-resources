@@ -1,6 +1,8 @@
-# Color themes index
+# Color scheme idea libraries
 
-Extracted palettes from organized color-scheme-images folders. Each theme has `palette.json`, `palette.css`, `palette.png`, and optional per-image JSON under `palettes/`.
+Extracted palettes from organized color-scheme image folders. Each library has `palette.json`, `palette.css`, `palette.png`, and optional per-image JSON under `palettes/`.
+
+Named intentional themes (antichrist, beast-mark-*, …) live in [`../color-themes/INDEX.md`](../color-themes/INDEX.md).
 
 | Theme | Images | Palette (hex) |
 |-------|--------|---------------|
@@ -16,10 +18,11 @@ Extracted palettes from organized color-scheme-images folders. Each theme has `p
 | `cosmic-aurora` | 6 | #070b16 / #1c4b5e / #192938 / #577574 / #4e5352 / #0b283b |
 | `neon-cyber` | 15 | #060219 / #234a62 / #cd122e / #90ca70 / #401c4e / #171c30 |
 | `spectrum` | 9 | #09061c / #955d7e / #c1b575 / #fffef7 / #391754 / #0f1423 |
-| `antichrist` (starter) | 53 | #4A0E4E / #9B1B1E / #F5F0E8 / #C9A227 / #140A12 |
 
 ## Notes
+
 - Theme folder names are kebab-case.
-- `antichrist` is constrained to purple / scarlet / pearl / gold (no blue).
-- Antichrist reference images after no-blue filter: **53**.
 - Synced from `C:\Users\vapor\Pictures\color-scheme-images` (pass2 Downloads import included).
+- Named catalog: `F:\__ai-projects\design-resources\color-themes\`.
+
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Removed named themes (now under color-themes/); themes/ is idea libraries only. -->
