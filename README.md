@@ -45,24 +45,15 @@ cd /mnt/f/__ai-projects/design-resources && git add -A && git commit && git push
 - Repo must stay **private**.  
 - Do not attach these grids to public sites or public repos.
 
-## Color themes
+## Color packs
 
-Working library mirrored under `themes/` (source: `C:\Users\vapor\Pictures\color-scheme-images`).
+| Folder | Role |
+|--------|------|
+| `themes/` | Idea-generation color-scheme libraries (source: `C:\Users\vapor\Pictures\color-scheme-images`) |
+| `color-themes/` | Named, expanding theme systems (briefs, locked roles, gradients) |
 
-| Theme | Image count |
-|-------|-------------|
-| `autumn-earth` | 21 |
-| `bright-jewel` | 31 |
-| `lux-red` | 18 |
-| `gilded-dune` | 15 |
-| `blue-marble` | 21 |
-| `mono-neutral` | 14 |
-| `zen-mist` | 9 |
-| `royal-amethyst` | 9 |
-| `coastal-emerald` | 6 |
-| `cosmic-aurora` | 6 |
-| `neon-cyber` | 15 |
-| `spectrum` | 9 |
-| `antichrist` | 53 |
+See `themes/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
 
-See `themes/INDEX.md` for hex palettes. Counts: autumn-earth=21, bright-jewel=31, lux-red=18, gilded-dune=15, blue-marble=21, mono-neutral=14, zen-mist=9, royal-amethyst=9, coastal-emerald=6, cosmic-aurora=6, neon-cyber=15, spectrum=9, antichrist=53.
+Workspace shortcut: `F:\__ai-projects\color-themes` → junction to `design-resources\color-themes`.
+
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Split themes/ (ideas) from color-themes/ (named catalog). -->
