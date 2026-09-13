@@ -11,7 +11,8 @@ from pathlib import Path
 
 from PIL import Image
 
-THEMES_ROOT = Path(r"F:\__ai-projects\design-resources\themes")
+IDEA_GENERATORS_ROOT = Path(r"F:\__ai-projects\design-resources\idea-generators")
+THEMES_ROOT = IDEA_GENERATORS_ROOT  # legacy alias used below
 COLOR_THEMES_ROOT = Path(r"F:\__ai-projects\design-resources\color-themes")
 SOURCE_ROOT = Path(r"C:\Users\vapor\Pictures\color-scheme-images")
 AC_WORK = Path(r"F:\__ai-projects\design-resources\color-themes\antichrist")
@@ -463,39 +464,28 @@ def main():
     lines.append(f"- Antichrist reference images after no-blue filter: **{len(passed)}**.")
     (THEMES_ROOT / "INDEX.md").write_text("\n".join(lines) + "\n", encoding="utf-8")
 
-    readme = """# themes/
+    readme = """# idea-generators/
 
-Organized color-scheme theme libraries for design work.
+Idea-generation color-scheme libraries for design work.
+Named themes live in ../color-themes/.
 
 ## Structure
 
 ```
-themes/
-  INDEX.md                 # summary table of all themes + hexes
-  README.md                # this file
-  <theme-kebab>/
-    *.jpg|*.png            # reference / source imagery
-    palette.json           # 5–6 colors with role guesses
-    palette.css            # CSS variables --theme-*
-    palette.png            # horizontal swatch strip
-    palettes/              # optional per-image palette JSON
-  antichrist/
-    BRIEF.md
-    references/
-    palettes/
-    generated/             # reserved for generated assets
+idea-generators/
+  INDEX.md
+  README.md
+  <library-kebab>/
+    *.jpg|*.png
     palette.json|css|png
+    palettes/
+    materials/
 ```
 
 ## Naming
 
-- Theme folder names use **kebab-case** (`lux-red`, `gilded-dune`, `royal-amethyst`).
-- Image stems follow `theme--descriptor--NN.ext` when imported from the source library.
-
-## Palette roles
-
-Typical roles in `palette.json`: `background`, `primary`, `accent`, `highlight`, `muted`, `ink`.  
-The `antichrist` theme uses named roles: `purple`, `scarlet`, `pearl`, `gold`, `ink`, `muted`.
+- Library folder names use kebab-case (`lux-red`, `gilded-dune`, `royal-amethyst`).
+- Image stems follow `library--descriptor--NN.ext`.
 
 ## Privacy
 

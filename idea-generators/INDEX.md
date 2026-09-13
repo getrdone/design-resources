@@ -4,8 +4,8 @@ Extracted palettes from organized color-scheme image folders. Each library has `
 
 Named intentional themes (antichrist, beast-mark-*, …) live in [`../color-themes/INDEX.md`](../color-themes/INDEX.md).
 
-| Theme | Images | Palette (hex) |
-|-------|--------|---------------|
+| Library | Images | Palette (hex) |
+|---------|--------|---------------|
 | `autumn-earth` | 21 | #100907 / #bc712b / #766749 / #c19859 / #883713 / #4a3122 |
 | `bright-jewel` | 31 | #030712 / #106971 / #072546 / #e4cd49 / #8a2126 / #1f1e33 |
 | `lux-red` | 18 | #060607 / #232929 / #7a0d13 / #735347 / #340c0d / #0f1213 |
@@ -21,8 +21,8 @@ Named intentional themes (antichrist, beast-mark-*, …) live in [`../color-them
 
 ## Notes
 
-- Theme folder names are kebab-case.
+- Library folder names are kebab-case.
 - Synced from `C:\Users\vapor\Pictures\color-scheme-images` (pass2 Downloads import included).
 - Named catalog: `F:\__ai-projects\design-resources\color-themes\`.
 
-<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Removed named themes (now under color-themes/); themes/ is idea libraries only. -->
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Path renamed themes/ → idea-generators/. -->

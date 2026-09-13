@@ -1,6 +1,6 @@
 # Named color themes index
 
-Expanding catalog of intentional theme systems. Idea-generation libraries live in `../themes/`.
+Expanding catalog of intentional theme systems. Idea-generation libraries live in `../idea-generators/`.
 
 | Theme | Notes | Palette (hex) |
 |-------|-------|---------------|
@@ -12,8 +12,7 @@ Expanding catalog of intentional theme systems. Idea-generation libraries live i
 ## Notes
 
 - Theme folder names are kebab-case.
-- Add new named themes here; keep mood/source libraries in `themes/`.
+- Add new named themes here; keep mood/source libraries in `idea-generators/`.
 - Canonical path: `F:\__ai-projects\design-resources\color-themes\`.
-- Workspace shortcut: `F:\__ai-projects\color-themes` → junction to this folder.
 
-<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Initial named-theme index after merge from themes/ + top-level color-themes. -->
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Companion path themes/ → idea-generators/; removed junction note. -->

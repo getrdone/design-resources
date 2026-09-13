@@ -12,7 +12,9 @@ Never ship: text titles, hex strips, collage panels, people/figures, narrative p
 Every theme needs:
 1. MATERIALS.txt (mood, surfaces, light, avoids, recreate prompt seed, canonical path)
 2. `{theme}--materials-mood--01.png` in `# materials/` gallery
-3. copies under `# materials/{theme}/` and `themes/{theme}/materials/`
+3. copies under `# materials/{theme}/` and `idea-generators/{library}/materials/` (or `color-themes/{theme}/materials/` for named themes)
 4. Generate with 1–2 first-batch reference images + recreate seed
 
 Skill: Color theme materials mood (`color-theme-materials-mood`)
+
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Path renamed themes/ → idea-generators/. -->
