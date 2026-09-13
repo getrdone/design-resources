@@ -20,7 +20,7 @@ textures/
   decorative-line-dividers/
   designers-toolkit/             # crests, engravings, flourishes, frames, nature, vector-patterns
   distressed-borders/
-  docs/                          # workshop / instruction PDFs
+  _docs/                          # workshop / instruction PDFs
   dry-marker/
   fabric-texture-brushes/
   gritty-halftone-brushes/       # includes CS5-era brush
@@ -44,6 +44,8 @@ textures/
 ```
 
 Tool-only subfolders (when needed): `brushes/`, `illustrator/`, `photoshop/`, `displacement-maps/`.
+
+Human-readable instructions and workshop PDFs go in **`_docs/`**, not `docs/`.
 
 ## How agents should use this
 
@@ -71,3 +73,4 @@ Paid The Vector Lab / Affinity design packs. Repo must stay **private**.
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Created textures pack; merged unique T-shirt/vector-lab sources; excluded Mac junk and zip originals. -->
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Deleted duplicate HD copies and original-download zips; this folder is canonical. -->
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Flattened unzip wrappers and JPEG/TIFF splits; kebab-case packs; combined overlaps. -->
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Instruction folder is _docs/ (user rename verified). -->
