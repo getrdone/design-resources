@@ -57,7 +57,7 @@ See `idea-generators/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
 
 ## Textures / patterns
 
-Working library: `textures/` (bitmap textures, fabric, photocopy grit, overspray, vintage print, vector pattern elements, web/background source).
+Working library: `textures/` — kebab-case packs (bitmap textures, fabric, photocopy grit, overspray, vintage print, vector pattern elements, web/background source). See `textures/README.md`.
 
 Do not put layout grids there — those stay in `dynamic-symmetry-grids/`. Extra Affinity grid packs (light table / extended / white background) live locally under `dynamic-symmetry-grids/extra-from-affinity/`.
 
