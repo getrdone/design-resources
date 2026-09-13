@@ -23,17 +23,19 @@ textures/
 
 ## What was merged (2026-09-13)
 
+Canonical is this folder. Duplicate source copies and zip originals were deleted after import.
+
 | Source | Action |
 |--------|--------|
-| `G:\-- downloads\[paid] T-Shirt Design Master Collection (Order 24458)` | Imported extracted packs; skipped `__original-downloads` (5.26 GB zips) and Mac junk |
-| `C:\Users\vapor\Desktop\Affinity\[paid] T-Shirt Design Master Collection (Order 24458)` | Duplicate of G: (same 12.77 GB / 2928 files) — not copied twice |
-| `C:\Users\vapor\Desktop\Affinity\-- vectors` | Imported unzipped vector/pattern elements |
-| `C:\Users\vapor\Desktop\Affinity\-- Dynamic Symmetry` | **Not** textures — extra grid packs belong with `dynamic-symmetry-grids/` |
-| `C:\Users\vapor\Desktop\dynamic-symmetry-grids` | Already canonical at `design-resources/dynamic-symmetry-grids/` (same 969 files) |
-| `G:\-- downloads\CLEANUP\_ARTWORK\the vector lab (assets)` (dup on `H:\-- Four44\-- design helps\`) | Extra Vector Lab texture/brush packs imported under `vector-lab/` |
+| `G:\-- downloads\[paid] T-Shirt Design Master Collection (Order 24458)` | Extracted packs imported; `__original-downloads` zips **not** kept; **source folder deleted** |
+| `C:\Users\vapor\Desktop\Affinity\` (T-shirt pack + vectors + extra grids) | Duplicates imported then **deleted** |
+| `C:\Users\vapor\Desktop\dynamic-symmetry-grids` | Already in `dynamic-symmetry-grids/`; **deleted** |
+| `G:\-- downloads\CLEANUP\_ARTWORK\the vector lab (assets)` | Imported under `vector-lab/`; **deleted** |
+| `H:\-- Four44\-- design helps\the vector lab (assets)` | Duplicate of G: CLEANUP; **deleted** |
 
 ## Privacy
 
 Paid The Vector Lab / Affinity design packs. Repo must stay **private**.
 
 <!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Created textures pack; merged unique T-shirt/vector-lab sources; excluded Mac junk and zip originals. -->
+<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Deleted duplicate HD copies and original-download zips; this folder is canonical. -->
