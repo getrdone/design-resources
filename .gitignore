@@ -9,6 +9,11 @@ textures/**
 !textures/**/*.md
 textures/_merge-log.txt
 
-# Extra Affinity dynamic-symmetry packs (local; canonical black-line grids stay tracked)
-dynamic-symmetry-grids/extra-from-affinity/**
-!dynamic-symmetry-grids/extra-from-affinity/README.md
+# Dynamic Symmetry grid binaries stay LOCAL (paid pack; do not push). Docs/README stay trackable.
+dynamic-symmetry-grids/**/*.png
+dynamic-symmetry-grids/**/*.jpg
+dynamic-symmetry-grids/**/*.jpeg
+dynamic-symmetry-grids/**/*.tif
+dynamic-symmetry-grids/**/*.tiff
+dynamic-symmetry-grids/**/*.pdf
+dynamic-symmetry-grids/**/.synced-from-h.txt
