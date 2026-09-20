@@ -1,7 +1,7 @@
-# design-resources
+# Design resource project
 
-Read `README.md`.  
-For method: read `F:\__ai-projects\agent-skills\skills\curiosity-driven-scripture-journey\SKILL.md`, resolve `CURRENT`, then open `versions/<resolved>/references/dynamic-symmetry.md`.
-Use **black-line PNG grids** only in outputs. No nude study imagery.
+Managed design methods and the complete Dynamic Symmetry grid pack are authoritative at `G:/__ai-projects/_agent-skills`. Source imagery and human design collections retain their documented asset locations. Do not use an old skill or source checkout as an instruction fallback. Use black-line PNG grids in outputs; no nude study imagery.
 
-<!-- Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-09-13 | Repaired Dynamic Symmetry routing to the versioned current-release method. -->
+## Authoritative skills and work placement
+
+Use `G:/__ai-projects/_agent-skills/CATALOG.md` to discover current skills; resolve releases through their CURRENT/STABLE selectors. That library contains all managed instructions and resources. Do not use old aliases or archived skills as fallback instructions. Put drafts, temporary plans, experiments and diagnostic captures in project `_wip/<task>/`, not root or planning/. Put reusable project utilities in `_tools/` and consult the master `G:/__ai-projects/_agent-skills/_tools/TOOLS.md` first. Preserve accepted plans, source, tests, assets, deliverables and project-specific locks. Complete authorized work in cohesive verifiable chunks without elapsed-time quotas or automatic kills.

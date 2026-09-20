@@ -17,3 +17,6 @@ dynamic-symmetry-grids/**/*.tif
 dynamic-symmetry-grids/**/*.tiff
 dynamic-symmetry-grids/**/*.pdf
 dynamic-symmetry-grids/**/.synced-from-h.txt
+
+# Task drafts and diagnostic artifacts
+/_wip/
