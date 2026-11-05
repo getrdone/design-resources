@@ -23,7 +23,9 @@ dynamic-symmetry-grids/**/.synced-from-h.txt
 
 # Reference imagery and theme collections are maintained in the local library.
 /# materials/
+/materials/
 /color-themes/
+/themes/
 /idea-generators/
 /dynamic-symmetry-grids/
 /textures/
