@@ -20,3 +20,11 @@ dynamic-symmetry-grids/**/.synced-from-h.txt
 
 # Task drafts and diagnostic artifacts
 /_wip/
+
+# Reference imagery and theme collections are maintained in the local library.
+/# materials/
+/color-themes/
+/idea-generators/
+/dynamic-symmetry-grids/
+/textures/
+/work/

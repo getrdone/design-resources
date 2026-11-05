@@ -1,65 +1,9 @@
-# design-resources (private)
+# Redirect: design-resource core moved
 
-**GitHub source of truth:** https://github.com/getrdone/design-resources (**private**)  
-**Local continuously synced clone:** `F:\__ai-projects\design-resources\`  
+This Git working tree no longer hosts live design assets. The canonical library is now:
 
-Machine map: `F:\__ai-projects\SOURCES-OF-TRUTH.md`  
-Sync: `F:\__ai-projects\_agent-control\bin\sync-canonical-repos.sh`
+`G:\media\images\reference-images\`
 
-Paid / proprietary design packs. Do **not** make this repo public.
+Use that core for color families (`color-schemes\`), website-driven theme requests (`_theme-requests\`), artwork styles, website mockups, data visualization, textures and backgrounds, and reference guides. The small folders retained here are navigation redirects only; do not add assets or use this location as a source.
 
-## Packs
-
-| Folder | What | Notes |
-|--------|------|--------|
-| `dynamic-symmetry-grids/` | Dynamic symmetry PNG armatures + gauges + method PDFs | **black-line PNGs** are working files |
-| `textures/` | Texture / pattern source packs (print grit, fabric, halftone, vector pattern) | Paid Vector Lab / Affinity; local binaries, README tracked |
-
-### Dynamic symmetry — quick agent rule
-
-1. Soft standard for layout, spacing, hierarchy, thumbs, heroes.  
-2. **Skim glossary:** `dynamic-symmetry-grids/GLOSSARY.md` → **current-release pointer** into **agent-skills** (one current release, no stale duplicate).
-3. Full method: read `F:\__ai-projects\agent-skills\skills\curiosity-driven-scripture-journey\SKILL.md`, resolve `CURRENT`, then open `versions/<resolved>/references/dynamic-symmetry.md`.
-4. Prefer `US grid sizes/` or `A4 grid sizes/` → `BLACK PNG HORIZONTAL` or `VERTICAL`.  
-5. **Never** put nude/sexually explicit study images from the PDFs into any deliverable.
-
-### How content is owned
-
-| Content | Repo history |
-|---------|----------------|
-| PNG grids, gauges, PDFs | **this repo** (`design-resources`) |
-| Glossary text + skill method docs | **agent-skills** (GLOSSARY.md is a current-release pointer) |
-
-### Importing new files from H: (purchase archive)
-
-Only when updating the pack; then **commit + push** so GitHub stays SOT:
-
-```bash
-rsync -a --exclude '.DS_Store' --exclude 'Thumbs.db' \
-  "/mnt/h/-- Four44/-- design helps/Dynamic Symmetry Grids/" \
-  "/mnt/f/__ai-projects/design-resources/dynamic-symmetry-grids/"
-cd /mnt/f/__ai-projects/design-resources && git add -A && git commit && git push
-```
-
-## Privacy
-
-- Repo must stay **private**.  
-- Do not attach these grids to public sites or public repos.
-
-## Color packs
-
-| Folder | Role |
-|--------|------|
-| `idea-generators/` | Idea-generation color-scheme libraries (source: `C:\Users\vapor\Pictures\color-scheme-images`) |
-| `color-themes/` | Named, expanding theme systems (briefs, locked roles, gradients) |
-
-See `idea-generators/INDEX.md` and `color-themes/INDEX.md` for hex palettes.
-
-## Textures / patterns
-
-Working library: `textures/` — kebab-case packs (bitmap textures, fabric, photocopy grit, overspray, vintage print, vector pattern elements, web/background source). See `textures/README.md`.
-
-Do not put layout grids there — those stay in `dynamic-symmetry-grids/`. Extra Affinity grid packs (light table / extended / white background) live locally under `dynamic-symmetry-grids/extra-from-affinity/`.
-
-<!-- Agent: grok · Model: Grok 4.5 · Date: 2026-09-13 · Added textures/ pack; extra Affinity grids stay with dynamic-symmetry-grids. -->
-<!-- Agent: Codex | Model: GPT-5 | Thinking: not exposed | Date: 2026-09-13 | Replaced stale Dynamic Symmetry symlink instructions with current-release routing. -->
+Migration record: `G:\media\images\reference-images\color-schemes\_meta\migration\2026-09-13-f-design-resources\report.json`.
